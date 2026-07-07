@@ -5,16 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. Gaurav Mathpal | Prosthodontist & Implantologist in New Delhi</title>
-    <meta name="description"
-        content="Dr. Gaurav Mathpal - Prosthodontist and Implantologist in New Delhi. Specializing in Implants, Smile Designing, Root Canal, and TMJ Disorders.">
+    <meta name="description" content="Dr. Gaurav Mathpal - Prosthodontist and Implantologist in New Delhi. Specializing in Implants, Smile Designing, Root Canal, and TMJ Disorders.">
 
-    <!-- Google Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-
-    <!-- CSS -->
-    <link rel="stylesheet" href="css/styles.css?v=2">
+    <?php include 'nav-links.php'; ?>
 
     <!-- JSON-LD LocalBusiness Schema -->
     <script type="application/ld+json">
@@ -64,174 +57,115 @@
 
 <body>
 
-    <!-- Topbar Section -->
-    <div class="topbar">
-        <div class="topbar-container">
-            <div class="topbar-info">
-                <a href="tel:+918079791010"><svg width="14" height="14" viewBox="0 0 24 24" fill="none"
-                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                        <path
-                            d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
-                        </path>
-                    </svg> (+91)-8079791010</a>
-                <a href="mailto:info@drgauravmathpal.com"><svg width="14" height="14" viewBox="0 0 24 24" fill="none"
-                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                        <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2V6c0-1.1.9-2 2-2z"></path>
-                        <polyline points="22,6 12,13 2,6"></polyline>
-                    </svg> info@drgauravmathpal.com</a>
-                <span class="hours-text" style="opacity: 0.3;">|</span>
-                <span class="hours-text" style="display:flex;align-items:center;gap:6px;"><svg width="14" height="14"
-                        viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="10"></circle>
-                        <polyline points="12 6 12 12 16 14"></polyline>
-                    </svg> Mon - Sat: 10:30 AM - 8:00 PM</span>
-            </div>
-            <div class="topbar-socials">
-                <span>Follow Us:</span>
-                <a href="https://www.facebook.com/panaceadental" target="_blank" aria-label="Facebook"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg></a>
-                <a href="https://www.instagram.com/panacea_clinic_r/" target="_blank" aria-label="Instagram"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg></a>
-                <a href="https://www.youtube.com/channel/UCWmA77bYwksKciQaOdCvr8w" target="_blank" aria-label="YouTube"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"></path><polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02" fill="#fff"></polygon></svg></a>
-                <a href="https://x.com/DrGauravMaiv" target="_blank" aria-label="X (Twitter)"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path></svg></a>
-                <a href="https://www.linkedin.com/in/drgauravmathpal-panacea-68228341b/" target="_blank" aria-label="LinkedIn"><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg></a>
-            </div>
-        </div>
-    </div>
-
-    <!-- Header / Navigation -->
-    <header class="header" id="header">
-        <div class="container nav-container">
-            <a href="#" class="logo">
-                <div class="logo-icon-box">
-                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2C8 2 6 5 6 9v3c0 3.5 1.5 6 2.5 8 .5 1 1.5 2 2.5 2s1.5-1 2-3c.5 2 1 3 2 3s2-1 2.5-2C18.5 18 20 15.5 20 12V9c0-4-2-7-6-7z"></path></svg>
-                </div>
-                <span class="logo-text">Dr. Gaurav <span class="highlight">Mathpal</span></span>
-            </a>
-
-            <button class="mobile-nav-toggle" aria-controls="primary-navigation" aria-expanded="false">
-                <span class="sr-only">Menu</span>
-                <div class="hamburger">
-                    <span></span><span></span><span></span>
-                </div>
-            </button>
-
-            <nav>
-                <ul id="primary-navigation" data-visible="false" class="primary-navigation">
-                    <li><a href="index.html" class="active">Home</a></li>
-                    <li><a href="about.html">About Doctor</a></li>
-                    <li class="nav-item dropdown mega-dropdown">
-                        <a href="index.html#services" class="dropdown-toggle">Services <svg width="12" height="12"
-                                viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                stroke-linecap="round" stroke-linejoin="round"
-                                style="margin-left:4px; vertical-align:middle; transition: transform 0.2s;">
-                                <polyline points="6 9 12 15 18 9"></polyline>
-                            </svg></a>
-                        <div class="mega-menu glass-card">
-                            <div class="mega-menu-grid">
-                                <a href="implants.html" class="mega-item">
-                                    <div class="mega-icon">
-                                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg>
-                                    </div>
-                                    <div class="mega-text">
-                                        <h4>Dental Implants</h4>
-                                        <p>Single, Multiple & Full Mouth Implants</p>
-                                    </div>
-                                </a>
-                                <a href="smile-designing.html" class="mega-item">
-                                    <div class="mega-icon">
-                                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"></path></svg>
-                                    </div>
-                                    <div class="mega-text">
-                                        <h4>Smile Designing</h4>
-                                        <p>Customized Hollywood Smile Makeovers</p>
-                                    </div>
-                                </a>
-                                <a href="rehabilitation.html" class="mega-item">
-                                    <div class="mega-icon">
-                                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
-                                    </div>
-                                    <div class="mega-text">
-                                        <h4>Rehabilitation</h4>
-                                        <p>Trauma & Restorative Care</p>
-                                    </div>
-                                </a>
-                                <a href="surgery.html" class="mega-item">
-                                    <div class="mega-icon">
-                                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><path d="M8 14s1.5 2 4 2 4-2 4-2"></path><line x1="9" y1="9" x2="9.01" y2="9"></line><line x1="15" y1="9" x2="15.01" y2="9"></line></svg>
-                                    </div>
-                                    <div class="mega-text">
-                                        <h4>Surgical Procedures</h4>
-                                        <p>Painless Extractions & Surgery</p>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                    </li>
-                    <li><a href="index.html#gallery">Gallery</a></li>
-                    <li><a href="blog.html">Blog</a></li>
-                    <li><a href="contact.html" class="btn btn-primary nav-btn"><svg width="16" height="16"
-                                viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                                stroke-linecap="round" stroke-linejoin="round">
-                                <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
-                                <line x1="16" y1="2" x2="16" y2="6"></line>
-                                <line x1="8" y1="2" x2="8" y2="6"></line>
-                                <line x1="3" y1="10" x2="21" y2="10"></line>
-                            </svg> Book Appointment</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+    <?php include 'header.php'; ?>
 
     <main>
         <!-- Hero Section -->
         <section id="home" class="hero">
+            <div class="hero-bg-shapes">
+                <div class="hero-shape shape-1"></div>
+                <div class="hero-shape shape-2"></div>
+                <div class="hero-grid-pattern"></div>
+            </div>
             <div class="container hero-content">
+                <!-- Left Column: Content -->
                 <div class="hero-text fade-in">
-                    <div class="badge">Painless Dentistry in New Delhi</div>
-                    <h1>Experience the Pinnacle of <span class="highlight">Painless</span> <span
-                            class="highlight">Dentistry</span></h1>
-                    <p>Led by Dr. Gaurav Mathpal, a perfect clinician and professional mentor for implants. We
-                        specialize in providing a completely painless, state-of-the-art experience for your perfect
-                        smile.</p>
+                    <div class="hero-status-pill">
+                        <span class="status-indicator"></span>
+                        <span class="status-text">Premier Painless Dentistry & Implant Center</span>
+                    </div>
 
-                    <div class="hero-small-stats">
-                        <div class="small-stat-box">
-                            <span class="stat-num">5000+</span>
-                            <span class="stat-desc">Patients</span>
+                    <h1 class="hero-heading">
+                        Next-Generation <br>
+                        <span class="hero-gradient-text">Painless Dentistry</span> <br>
+                        For Your Smile
+                    </h1>
+
+                    <p class="hero-subtext">
+                        Led by renowned implant mentor <strong>Dr. Gaurav Mathpal</strong>. Experience world-class precision dental implants, computerized laser treatments, and single-sitting care—delivering a 100% painless, relaxing experience.
+                    </p>
+
+                    <!-- Feature Tags (Replaces Stats) -->
+                    <div class="hero-feature-tags">
+                        <div class="feature-tag">
+                            <span class="feature-icon">
+                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+                            </span>
+                            <span>Zero-Pain Anesthesia</span>
                         </div>
-                        <div class="small-stat-box">
-                            <span class="stat-num">2000+</span>
-                            <span class="stat-desc">Implants</span>
+                        <div class="feature-tag">
+                            <span class="feature-icon">
+                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg>
+                            </span>
+                            <span>Guided 3D Implants</span>
                         </div>
-                        <div class="small-stat-box">
-                            <span class="stat-num">15+</span>
-                            <span class="stat-desc">Awards</span>
-                        </div>
-                        <div class="small-stat-box">
-                            <span class="stat-num">10+</span>
-                            <span class="stat-desc">Years Exp.</span>
+                        <div class="feature-tag">
+                            <span class="feature-icon">
+                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                            </span>
+                            <span>Single-Sitting RCT</span>
                         </div>
                     </div>
+
                     <div class="hero-actions">
-                        <a href="#contact" class="btn btn-primary">Book Appointment</a>
-                        <a href="#services" class="btn btn-secondary">Explore Services</a>
+                        <a href="#contact" class="btn btn-primary hero-btn-primary">
+                            <span>Schedule Priority Consultation</span>
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+                        </a>
+                        <a href="#services" class="btn btn-secondary hero-btn-secondary">
+                            <span>Explore Specialities</span>
+                        </a>
+                    </div>
+
+                    <div class="hero-trust-bar">
+                        <div class="trust-avatars">
+                            <img src="img/1.webp" alt="Patient Smile">
+                            <img src="img/2.webp" alt="Patient Smile">
+                            <img src="img/3.webp" alt="Patient Smile">
+                            <div class="avatar-rating-badge">★ 4.9/5</div>
+                        </div>
+                        <div class="trust-info">
+                            <strong>Trusted by 1,200+ Happy Patients</strong>
+                            <span>Same-Day Emergency & Zero Waiting Time</span>
+                        </div>
                     </div>
                 </div>
-                <div class="hero-image fade-in-right">
-                    <img src="img/hero-img.webp" alt="Modern Dental Clinic Room" class="main-img">
-                    <div class="floating-card glass-card">
-                        <span class="card-icon" style="color:#f59e0b;"><svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg></span>
-                        <div class="card-text">
-                            <strong>4.9/5 Rating</strong>
-                            <span style="font-size: 0.8rem; color: var(--clr-text-light);">1,200+ Happy Smiles</span>
+
+                <!-- Right Column: Interactive Visual Showcase -->
+                <div class="hero-visual fade-in-right">
+                    <div class="hero-visual-frame">
+                        <div class="hero-image-wrapper">
+                            <img src="img/hero-img.webp" alt="State of the Art Dental Clinic" class="main-hero-img">
+                            <div class="hero-img-overlay"></div>
                         </div>
-                    </div>
-                    <div class="floating-card glass-card"
-                        style="top: 30px; bottom: auto; left: auto; right: -30px; animation-delay: -3s;">
-                        <span class="card-icon" style="color:#10B981;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg></span>
-                        <div class="card-text">
-                            <strong>100% Painless</strong>
-                            <span style="font-size: 0.8rem; color: var(--clr-text-light);">Precision Implants</span>
+
+                        <!-- Floating Glass Widget 1: Doctor Credibility -->
+                        <div class="hero-glass-widget widget-top-left">
+                            <div class="widget-avatar">
+                                <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-1152x1536.jpeg" alt="Dr. Gaurav Mathpal">
+                            </div>
+                            <div class="widget-content">
+                                <div class="widget-tag"><svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"></path></svg> Lead Clinician</div>
+                                <h4>Dr. Gaurav Mathpal</h4>
+                                <p>Prosthodontist & Implant Mentor</p>
+                            </div>
+                        </div>
+
+                        <!-- Floating Glass Widget 2: Painless Guarantee -->
+                        <div class="hero-glass-widget widget-bottom-right">
+                            <div class="widget-icon shield-glow">
+                                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><path d="M9 12l2 2 4-4"></path></svg>
+                            </div>
+                            <div class="widget-content">
+                                <h4>100% Painless Guarantee</h4>
+                                <p>Advanced Laser Navigation</p>
+                            </div>
+                        </div>
+
+                        <!-- Mini Floating Badge -->
+                        <div class="hero-mini-badge">
+                            <span class="mini-sparkle">✦</span>
+                            <span>Immediate Load Implants</span>
                         </div>
                     </div>
                 </div>
@@ -248,7 +182,7 @@
                             alt="Dr. Gaurav Mathpal" class="profile-card-img">
                     </div>
                     <div class="doctor-profile-content-col">
-                        <span class="badge" style="margin-bottom: 15px; display: inline-block;">Best Prosthodontist &
+                        <span class="badge ut-mb15-inblock">Best Prosthodontist &
                             Implant Specialist in Delhi NCR</span>
                         <h2 class="profile-doc-name">Dr Gaurav Mathpal</h2>
                         <h3 class="profile-doc-creds">Prosthodontist, Endodontist & Implant Mentor B.D.S., M.D.S., PhD,
@@ -291,7 +225,7 @@
                         </div>
 
                         <div class="profile-highlight-badge">
-                            <span style="display:inline-flex;align-items:center;gap:6px;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg> Certified Immediate Load Implant & Single-Sitting RCT Specialist</span>
+                            <span class="ut-style-67"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg> Certified Immediate Load Implant & Single-Sitting RCT Specialist</span>
                         </div>
 
                         <div class="profile-actions">
@@ -310,34 +244,57 @@
                     <!-- Row 1 Left: Intro & About Content (Spans 2 columns) -->
                     <div class="services-intro-block fade-in-up">
                         <div>
-                            <span class="badge" style="margin-bottom: 15px; display: inline-block;">Excellence in Dental
+                            <span class="badge ut-mb15-inblock">Excellence in Dental
                                 Care</span>
-                            <h2
-                                style="font-size: 2.4rem; margin-bottom: 1rem; line-height: 1.25; color: var(--clr-text);">
+                            <h2 class="ut-style-88"
+                               >
                                 Our Specialised <span class="highlight">Services</span></h2>
-                            <p
-                                style="font-size: 1.05rem; color: var(--clr-text-light); margin-bottom: 1.5rem; line-height: 1.7;">
+                            <p class="ut-style-76"
+                               >
                                 We provide comprehensive, cutting-edge dental care tailored to your comfort. Utilizing
                                 world-class diagnostic technology and specialized clinical precision, our treatments are
                                 engineered for lasting perfection and completely painless results.
                             </p>
-                            <div class="intro-features" style="display: flex; gap: 1.5rem; flex-wrap: wrap;">
-                                <div
-                                    style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #065f46; font-size: 0.95rem;">
-                                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#10B981"
-                                        stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-                                        <polyline points="20 6 9 17 4 12"></polyline>
-                                    </svg>
+                            <div class="intro-features ut-style-57">
+                                <div class="ut-style-47">
+                                    <span class="ut-style-2">
+                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                                    </span>
                                     100% Painless Procedures
                                 </div>
-                                <div
-                                    style="display: flex; align-items: center; gap: 8px; font-weight: 600; color: #065f46; font-size: 0.95rem;">
-                                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#10B981"
-                                        stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-                                        <polyline points="20 6 9 17 4 12"></polyline>
-                                    </svg>
-                                    Advanced Technology
+                                <div class="ut-style-47">
+                                    <span class="ut-style-2">
+                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                                    </span>
+                                    3D Digital Guided Implants
                                 </div>
+                                <div class="ut-style-47">
+                                    <span class="ut-style-2">
+                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                                    </span>
+                                    IIT Delhi CEP Certified Care
+                                </div>
+                                <div class="ut-style-47">
+                                    <span class="ut-style-2">
+                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                                    </span>
+                                    Single-Sitting Laser RCT
+                                </div>
+                            </div>
+
+                            <div class="ut-style-18">
+                                <div class="ut-style-48">
+                                    <div class="ut-style-131">
+                                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+                                    </div>
+                                    <div>
+                                        <strong class="ut-style-24">Tailored Clinical Precision</strong>
+                                        <span class="ut-style-31">Backed by 15+ years of specialized prosthodontic excellence.</span>
+                                    </div>
+                                </div>
+                                <a class="ut-style-25" href="about.php">
+                                    Meet Specialist →
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -355,12 +312,12 @@
                                 painless precision.</p>
                         </div>
                         <div class="service-actions">
-                            <a href="implants.html" class="btn-service btn-service-appt"
-                                style="background:var(--clr-primary);color:#fff;">Learn More</a>
-                            <a href="contact.html" class="btn-service btn-service-appt">
-                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            <a href="implants.php" class="btn-service btn-service-appt ut-style-21"
+                               >Learn More</a>
+                            <a href="contact.php" class="btn-service btn-service-appt">
+                                <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                     stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                                    style="margin-right:6px">
+                                   >
                                     <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
                                     <line x1="16" y1="2" x2="16" y2="6"></line>
                                     <line x1="8" y1="2" x2="8" y2="6"></line>
@@ -369,9 +326,9 @@
                                 Appointment
                             </a>
                             <a href="tel:+918079791010" class="btn-service btn-service-call">
-                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                     stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                                    style="margin-right:6px">
+                                   >
                                     <path
                                         d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
                                     </path>
@@ -382,7 +339,7 @@
                     </div>
 
                     <!-- Service 2: Smile Designing -->
-                    <div class="service-card fade-in-up" style="transition-delay: 0.1s;">
+                    <div class="service-card fade-in-up ut-delay-1">
                         <div class="service-img-wrapper">
                             <img src="img/2.webp" alt="Smile Designing" class="service-img">
                         </div>
@@ -394,12 +351,12 @@
                                 natural aesthetics.</p>
                         </div>
                         <div class="service-actions">
-                            <a href="smile-designing.html" class="btn-service btn-service-appt"
-                                style="background:var(--clr-primary);color:#fff;">Learn More</a>
-                            <a href="contact.html" class="btn-service btn-service-appt">
-                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            <a href="smile-designing.php" class="btn-service btn-service-appt ut-style-21"
+                               >Learn More</a>
+                            <a href="contact.php" class="btn-service btn-service-appt">
+                                <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                     stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                                    style="margin-right:6px">
+                                   >
                                     <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
                                     <line x1="16" y1="2" x2="16" y2="6"></line>
                                     <line x1="8" y1="2" x2="8" y2="6"></line>
@@ -408,9 +365,9 @@
                                 Appointment
                             </a>
                             <a href="tel:+918079791010" class="btn-service btn-service-call">
-                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                     stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                                    style="margin-right:6px">
+                                   >
                                     <path
                                         d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
                                     </path>
@@ -421,7 +378,7 @@
                     </div>
 
                     <!-- Service 3: Rehabilitation -->
-                    <div class="service-card fade-in-up" style="transition-delay: 0.2s;">
+                    <div class="service-card fade-in-up ut-delay-2">
                         <div class="service-img-wrapper">
                             <img src="img/3.webp" alt="Rehabilitation" class="service-img">
                         </div>
@@ -433,12 +390,12 @@
                                 function and comfort.</p>
                         </div>
                         <div class="service-actions">
-                            <a href="rehabilitation.html" class="btn-service btn-service-appt"
-                                style="background:var(--clr-primary);color:#fff;">Learn More</a>
-                            <a href="contact.html" class="btn-service btn-service-appt">
-                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            <a href="rehabilitation.php" class="btn-service btn-service-appt ut-style-21"
+                               >Learn More</a>
+                            <a href="contact.php" class="btn-service btn-service-appt">
+                                <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                     stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                                    style="margin-right:6px">
+                                   >
                                     <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
                                     <line x1="16" y1="2" x2="16" y2="6"></line>
                                     <line x1="8" y1="2" x2="8" y2="6"></line>
@@ -447,9 +404,9 @@
                                 Appointment
                             </a>
                             <a href="tel:+918079791010" class="btn-service btn-service-call">
-                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                     stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                                    style="margin-right:6px">
+                                   >
                                     <path
                                         d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
                                     </path>
@@ -460,7 +417,7 @@
                     </div>
 
                     <!-- Service 4: Surgical Procedures -->
-                    <div class="service-card fade-in-up" style="transition-delay: 0.3s;">
+                    <div class="service-card fade-in-up ut-delay-3">
                         <div class="service-img-wrapper">
                             <img src="img/4.webp" alt="Surgical Procedures" class="service-img">
                         </div>
@@ -472,12 +429,12 @@
                                 as our highest priority.</p>
                         </div>
                         <div class="service-actions">
-                            <a href="surgery.html" class="btn-service btn-service-appt"
-                                style="background:var(--clr-primary);color:#fff;">Learn More</a>
-                            <a href="contact.html" class="btn-service btn-service-appt">
-                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            <a href="surgery.php" class="btn-service btn-service-appt ut-style-21"
+                               >Learn More</a>
+                            <a href="contact.php" class="btn-service btn-service-appt">
+                                <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                     stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                                    style="margin-right:6px">
+                                   >
                                     <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
                                     <line x1="16" y1="2" x2="16" y2="6"></line>
                                     <line x1="8" y1="2" x2="8" y2="6"></line>
@@ -486,9 +443,9 @@
                                 Appointment
                             </a>
                             <a href="tel:+918079791010" class="btn-service btn-service-call">
-                                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                     stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                                    style="margin-right:6px">
+                                   >
                                     <path
                                         d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
                                     </path>
@@ -533,9 +490,9 @@
                 </div>
                 <div class="info-strip-action">
                     <a href="#contact" class="btn btn-teal">
-                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                        <svg class="ut-style-101" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                             stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                            style="margin-right: 8px; vertical-align: middle;">
+                           >
                             <circle cx="12" cy="12" r="10"></circle>
                             <polyline points="12 16 16 12 12 8"></polyline>
                             <line x1="8" y1="12" x2="16" y2="12"></line>
@@ -556,10 +513,10 @@
                         <span class="badge-number">10+</span>
                         <span class="badge-text">Years of Trust</span>
                     </div>
-                    <div class="floating-badge-secondary"
-                        style="position: absolute; top: 30px; left: -20px; background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(12px); border: 2px solid #10B981; border-radius: 30px; padding: 10px 20px; box-shadow: 0 10px 25px rgba(16, 185, 129, 0.15); display: flex; align-items: center; gap: 10px; font-weight: 700; color: #065f46; z-index: 2;">
-                        <span
-                            style="display: flex; align-items: center; justify-content: center; width: 28px; height: 28px; background: #10B981; color: white; border-radius: 50%; font-size: 14px;">✓</span>
+                    <div class="floating-badge-secondary ut-style-117"
+                       >
+                        <span class="ut-style-51"
+                           >✓</span>
                         100% Painless Dentistry
                     </div>
                 </div>
@@ -631,36 +588,36 @@
                     <div class="tech-card glass-card fade-in-up" data-category="diagnostic">
                         <div class="tech-card-header">
                             <span class="tech-card-badge badge-cyan">AI IMAGING</span>
-                            <div class="tech-card-icon" style="color:#06b6d4;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path></svg></div>
+                            <div class="tech-card-icon ut-color-06b6d4"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"></path></svg></div>
                         </div>
                         <h3>3D Digital Smile Design</h3>
                         <p>Visualize your final smile before treatment begins. AI-driven facial scanners create a highly
                             predictable 3D aesthetic blueprint tailored precisely to your facial symmetry.</p>
                         <div class="tech-card-footer">
-                            <span class="tech-stat" style="display:inline-flex;align-items:center;gap:4px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg> 100% Predictable</span>
+                            <span class="tech-stat ut-inflex-align-gap4"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg> 100% Predictable</span>
                             <span class="tech-arrow">→</span>
                         </div>
                     </div>
 
                     <!-- Card 2: Guided Implant Surgery -->
-                    <div class="tech-card glass-card fade-in-up" data-category="surgical"
-                        style="transition-delay: 0.1s;">
+                    <div class="tech-card glass-card fade-in-up ut-delay-1" data-category="surgical"
+                       >
                         <div class="tech-card-header">
                             <span class="tech-card-badge badge-emerald">ROBOTIC GUIDANCE</span>
-                            <div class="tech-card-icon" style="color:#10B981;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="6"></circle><circle cx="12" cy="12" r="2"></circle></svg></div>
+                            <div class="tech-card-icon ut-color-10b981-44"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="6"></circle><circle cx="12" cy="12" r="2"></circle></svg></div>
                         </div>
                         <h3>Guided Implant Surgery</h3>
                         <p>3D computer navigational guides eliminate guesswork, ensuring sub-millimeter surgical
                             accuracy for flawless implant placement, zero nerve disturbance, and rapid healing.</p>
                         <div class="tech-card-footer">
-                            <span class="tech-stat" style="display:inline-flex;align-items:center;gap:4px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg> 0.1mm Accuracy</span>
+                            <span class="tech-stat ut-inflex-align-gap4"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg> 0.1mm Accuracy</span>
                             <span class="tech-arrow">→</span>
                         </div>
                     </div>
 
                     <!-- Card 3: Spotlight Hero Card (Spans 2 rows on desktop) -->
-                    <div class="tech-card spotlight-card glass-card fade-in-up" data-category="surgical safety"
-                        style="transition-delay: 0.2s;">
+                    <div class="tech-card spotlight-card glass-card fade-in-up ut-delay-2" data-category="surgical safety"
+                       >
                         <div class="spotlight-image-box">
                             <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/elementor/thumbs/dentist-examining-patient-s-teeth-qe03kh8h2wp8rykujwzwvndrmti2byeas4uh2fmnpy.jpg"
                                 alt="State of the Art German Dental Technology">
@@ -675,80 +632,80 @@
                                 compassionate care to deliver procedures that are faster, safer, and completely
                                 painless."</p>
                             <div class="spotlight-pills">
-                                <span style="display:inline-flex;align-items:center;gap:4px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg> German Robotics</span>
-                                <span style="display:inline-flex;align-items:center;gap:4px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg> USA Laser Tech</span>
-                                <span style="display:inline-flex;align-items:center;gap:4px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 12h-4l-3 9L9 3l-3 9H2"></path></svg> Hospital Grade</span>
+                                <span class="ut-inflex-align-gap4"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><line x1="2" y1="12" x2="22" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path></svg> German Robotics</span>
+                                <span class="ut-inflex-align-gap4"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg> USA Laser Tech</span>
+                                <span class="ut-inflex-align-gap4"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 12h-4l-3 9L9 3l-3 9H2"></path></svg> Hospital Grade</span>
                             </div>
                         </div>
                     </div>
 
                     <!-- Card 4: Painless Laser Dentistry -->
-                    <div class="tech-card glass-card fade-in-up" data-category="surgical"
-                        style="transition-delay: 0.15s;">
+                    <div class="tech-card glass-card fade-in-up ut-transition-delay-0-15s" data-category="surgical"
+                       >
                         <div class="tech-card-header">
                             <span class="tech-card-badge badge-purple">SUTURELESS CARE</span>
-                            <div class="tech-card-icon" style="color:#a855f7;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg></div>
+                            <div class="tech-card-icon ut-color-a855f7"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg></div>
                         </div>
                         <h3>Painless Laser Dentistry</h3>
                         <p>Advanced soft-tissue dental lasers perform delicate procedures without drills or sutures.
                             Experience zero vibration, no bleeding, and accelerated tissue recovery.</p>
                         <div class="tech-card-footer">
-                            <span class="tech-stat" style="display:inline-flex;align-items:center;gap:4px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg> Zero Pain</span>
+                            <span class="tech-stat ut-inflex-align-gap4"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg> Zero Pain</span>
                             <span class="tech-arrow">→</span>
                         </div>
                     </div>
 
                     <!-- Card 5: Class B Autoclave -->
-                    <div class="tech-card glass-card fade-in-up" data-category="safety"
-                        style="transition-delay: 0.25s;">
+                    <div class="tech-card glass-card fade-in-up ut-transition-delay-0-25s" data-category="safety"
+                       >
                         <div class="tech-card-header">
                             <span class="tech-card-badge badge-gold">STERILIZATION</span>
-                            <div class="tech-card-icon" style="color:#f59e0b;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg></div>
+                            <div class="tech-card-icon ut-color-f59e0b-46"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg></div>
                         </div>
                         <h3>Class B Autoclave</h3>
                         <p>European fractionated vacuum autoclave technology eradicates 99.999% of all spores and
                             bacteria, guaranteeing an absolute cross-infection-free environment.</p>
                         <div class="tech-card-footer">
-                            <span class="tech-stat" style="display:inline-flex;align-items:center;gap:4px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"></path></svg> 100% Sterile</span>
+                            <span class="tech-stat ut-inflex-align-gap4"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"></path></svg> 100% Sterile</span>
                             <span class="tech-arrow">→</span>
                         </div>
                     </div>
 
                     <!-- Card 6: Microscope Root Canals -->
-                    <div class="tech-card glass-card fade-in-up" data-category="diagnostic"
-                        style="transition-delay: 0.2s;">
+                    <div class="tech-card glass-card fade-in-up ut-delay-2" data-category="diagnostic"
+                       >
                         <div class="tech-card-header">
                             <span class="tech-card-badge badge-cyan">OPTICAL PRECISION</span>
-                            <div class="tech-card-icon" style="color:#06b6d4;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg></div>
+                            <div class="tech-card-icon ut-color-06b6d4"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg></div>
                         </div>
                         <h3>Microscope Root Canals</h3>
                         <p>High-powered optical magnification up to 25x illuminates micro-fractures and hidden canals,
                             saving severely compromised teeth with extraordinary success rates.</p>
                         <div class="tech-card-footer">
-                            <span class="tech-stat" style="display:inline-flex;align-items:center;gap:4px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg> 25x Magnified</span>
+                            <span class="tech-stat ut-inflex-align-gap4"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg> 25x Magnified</span>
                             <span class="tech-arrow">→</span>
                         </div>
                     </div>
 
                     <!-- Card 7: Same Day Implants -->
-                    <div class="tech-card glass-card fade-in-up" data-category="surgical"
-                        style="transition-delay: 0.3s;">
+                    <div class="tech-card glass-card fade-in-up ut-delay-3" data-category="surgical"
+                       >
                         <div class="tech-card-header">
                             <span class="tech-card-badge badge-emerald">IMMEDIATE LOAD</span>
-                            <div class="tech-card-icon" style="color:#10B981;"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg></div>
+                            <div class="tech-card-icon ut-color-10b981-44"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg></div>
                         </div>
                         <h3>Same Day Implants</h3>
                         <p>Immediate functional loading protocols allow you to walk in with missing or failing teeth and
                             walk out with a permanent, customized smile in just one single visit.</p>
                         <div class="tech-card-footer">
-                            <span class="tech-stat" style="display:inline-flex;align-items:center;gap:4px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg> 1-Day Results</span>
+                            <span class="tech-stat ut-inflex-align-gap4"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg> 1-Day Results</span>
                             <span class="tech-arrow">→</span>
                         </div>
                     </div>
 
                     <!-- Card 8: CTA Banner Card -->
-                    <div class="tech-card cta-banner-card fade-in-up" data-category="diagnostic surgical safety"
-                        style="transition-delay: 0.35s;">
+                    <div class="tech-card cta-banner-card fade-in-up ut-transition-delay-0-35s" data-category="diagnostic surgical safety"
+                       >
                         <div class="cta-banner-content">
                             <span class="cta-sub">READY FOR A TRANSFORMATION?</span>
                             <h3>Experience the Future of Dentistry Today</h3>
@@ -769,16 +726,16 @@
                 </div>
                 <div class="ba-grid">
                     <div class="ba-card fade-in-up">
-                        <img src="img/692ec86508118395a85753f9_whitening (1).png" alt="Transformation 1"
-                            style="width: 100%; height: 300px; object-fit: cover; display: block;">
+                        <img class="ut-img-cover-300" src="img/692ec86508118395a85753f9_whitening (1).png" alt="Transformation 1"
+                           >
                     </div>
-                    <div class="ba-card fade-in-up" style="transition-delay: 0.1s;">
-                        <img src="img/692ec865453c7be79f9e646e_implants.png" alt="Transformation 2"
-                            style="width: 100%; height: 300px; object-fit: cover; display: block;">
+                    <div class="ba-card fade-in-up ut-delay-1">
+                        <img class="ut-img-cover-300" src="img/692ec865453c7be79f9e646e_implants.png" alt="Transformation 2"
+                           >
                     </div>
-                    <div class="ba-card fade-in-up" style="transition-delay: 0.2s;">
-                        <img src="img/692ec865d15415f676a9c438_crowns.png" alt="Transformation 3"
-                            style="width: 100%; height: 300px; object-fit: cover; display: block;">
+                    <div class="ba-card fade-in-up ut-delay-2">
+                        <img class="ut-img-cover-300" src="img/692ec865d15415f676a9c438_crowns.png" alt="Transformation 3"
+                           >
                     </div>
                 </div>
             </div>
@@ -797,29 +754,29 @@
                     <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-16.jpg"
                         alt="Clinic Reception" class="gallery-img fade-in-up">
                     <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/elementor/thumbs/dentist-examining-patient-s-teeth-qe03kh8h2wp8rykujwzwvndrmti2byeas4uh2fmnpy.jpg"
-                        alt="Treatment Room 1" class="gallery-img fade-in-up" style="transition-delay: 0.1s;">
+                        alt="Treatment Room 1" class="gallery-img fade-in-up ut-delay-1">
                     <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/elementor/thumbs/happy-smiling-teeth-qe03kh8h2wq0t3c4e4zkys9vrdz7z807xt6b1l667k.jpg"
-                        alt="Consultation Area" class="gallery-img fade-in-up" style="transition-delay: 0.2s;">
+                        alt="Consultation Area" class="gallery-img fade-in-up ut-delay-2">
                     <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-11.jpg"
-                        alt="Advanced Equipment" class="gallery-img fade-in-up" style="transition-delay: 0.3s;">
+                        alt="Advanced Equipment" class="gallery-img fade-in-up ut-delay-3">
                     <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-9.jpg"
-                        alt="Sterilization Room" class="gallery-img fade-in-up" style="transition-delay: 0.4s;">
+                        alt="Sterilization Room" class="gallery-img fade-in-up ut-delay-4">
                     <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-4.jpg"
-                        alt="Patient Waiting Lounge" class="gallery-img fade-in-up" style="transition-delay: 0.5s;">
+                        alt="Patient Waiting Lounge" class="gallery-img fade-in-up ut-transition-delay-0-5s">
                 </div>
             </div>
         </section>
 
         <!-- Testimonials Section -->
         <section id="testimonials" class="testimonials section-padding modern-testimonials-section">
-            <div class="container" style="position: relative; z-index: 2;">
+            <div class="container ut-pos-rel-z2">
                 <div class="section-header fade-in">
-                    <span class="badge" style="margin-bottom: 12px; display: inline-block;">Patient Stories</span>
+                    <span class="badge ut-mb12-inblock">Patient Stories</span>
                     <h2>Real Patients. <span class="highlight">Real Smiles.</span></h2>
                     <p>Read what our happy patients have to say about their world-class dental care experience.</p>
                 </div>
 
-                <div class="testimonials-carousel-wrapper fade-in-up" style="margin-top: 3rem;">
+                <div class="testimonials-carousel-wrapper fade-in-up ut-mt-3rem">
                     <!-- Navigation Arrows -->
                     <button class="carousel-control prev-btn" aria-label="Previous review">
                         <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
@@ -830,7 +787,7 @@
                             <!-- Review 1 -->
                             <div class="review-card carousel-slide">
                                 <div class="review-top">
-                                    <div class="review-stars" style="display: flex; gap: 3px; color: #FBBF24;">
+                                    <div class="review-stars ut-style-55">
                                         <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
                                         <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
                                         <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
@@ -854,7 +811,7 @@
                             <!-- Review 2 -->
                             <div class="review-card carousel-slide">
                                 <div class="review-top">
-                                    <div class="review-stars" style="display: flex; gap: 3px; color: #FBBF24;">
+                                    <div class="review-stars ut-style-55">
                                         <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
                                         <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
                                         <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
@@ -878,7 +835,7 @@
                             <!-- Review 3 -->
                             <div class="review-card carousel-slide">
                                 <div class="review-top">
-                                    <div class="review-stars" style="display: flex; gap: 3px; color: #FBBF24;">
+                                    <div class="review-stars ut-style-55">
                                         <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
                                         <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
                                         <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
@@ -902,7 +859,7 @@
                             <!-- Review 4 -->
                             <div class="review-card carousel-slide">
                                 <div class="review-top">
-                                    <div class="review-stars" style="display: flex; gap: 3px; color: #FBBF24;">
+                                    <div class="review-stars ut-style-55">
                                         <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
                                         <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
                                         <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
@@ -934,7 +891,7 @@
                 </div>
 
                 <!-- Show Your Love GMB Button -->
-                <div class="gmb-love-container fade-in-up" style="text-align: center; margin-top: 3.5rem;">
+                <div class="gmb-love-container fade-in-up ut-style-119">
                     <a href="https://search.google.com/local/writereview?placeid=ChIJ________" target="_blank"
                         class="btn gmb-love-btn">
                         <svg class="gmb-logo-icon" viewBox="0 0 24 24" width="24" height="24">
@@ -948,7 +905,7 @@
                                 d="M12 23c3.2 0 6-1.1 8-3l-3.7-2.9c-1.1.7-2.5 1.2-4.3 1.2-3.1 0-5.8-2.3-6.7-5.2L1.6 15.9C3.5 19.7 7.4 23 12 23z" />
                         </svg>
                         <span class="gmb-text">Show Your Love on Google</span>
-                        <span class="gmb-rating-badge" style="display:inline-flex;align-items:center;gap:3px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="#FBBC05" stroke="#FBBC05"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg><svg width="14" height="14" viewBox="0 0 24 24" fill="#FBBC05" stroke="#FBBC05"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg><svg width="14" height="14" viewBox="0 0 24 24" fill="#FBBC05" stroke="#FBBC05"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg><svg width="14" height="14" viewBox="0 0 24 24" fill="#FBBC05" stroke="#FBBC05"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg><svg width="14" height="14" viewBox="0 0 24 24" fill="#FBBC05" stroke="#FBBC05"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg> 5.0</span>
+                        <span class="gmb-rating-badge ut-style-65"><svg width="14" height="14" viewBox="0 0 24 24" fill="#FBBC05" stroke="#FBBC05"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg><svg width="14" height="14" viewBox="0 0 24 24" fill="#FBBC05" stroke="#FBBC05"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg><svg width="14" height="14" viewBox="0 0 24 24" fill="#FBBC05" stroke="#FBBC05"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg><svg width="14" height="14" viewBox="0 0 24 24" fill="#FBBC05" stroke="#FBBC05"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg><svg width="14" height="14" viewBox="0 0 24 24" fill="#FBBC05" stroke="#FBBC05"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg> 5.0</span>
                     </a>
                 </div>
             </div>
@@ -957,8 +914,8 @@
         <!-- Contact Section -->
         <section id="contact" class="contact section-padding light-contact-section">
             <div class="container contact-container">
-                <div class="section-header fade-in" style="margin-bottom: 3.5rem;">
-                    <span class="badge" style="margin-bottom: 12px; display: inline-block;">Get In Touch</span>
+                <div class="section-header fade-in ut-mb-3-5rem">
+                    <span class="badge ut-mb12-inblock">Get In Touch</span>
                     <h2>Schedule Your <span class="highlight">Appointment</span></h2>
                     <p>Ready to transform your smile? Reach out to us for painless, world-class dental care.</p>
                 </div>
@@ -1022,20 +979,20 @@
                             </div>
                         </div>
 
-                        <div class="map-container" style="margin-top: 2.5rem;">
-                            <iframe
+                        <div class="map-container ut-margin-top-2-5rem">
+                            <iframe class="ut-style-23"
                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112000.00000000000!2d77.2090!3d28.6139!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDM2JzUwLjAiTiA3N8KwMTInMzIuNCJF!5e0!3m2!1sen!2sin!4v1610000000000!5m2!1sen!2sin"
                                 width="100%" height="220"
-                                style="border:0; border-radius: 16px; box-shadow: 0 8px 25px rgba(0,0,0,0.08);"
+                               
                                 allowfullscreen="" loading="lazy"></iframe>
                         </div>
                     </div>
 
                     <!-- Contact Form -->
-                    <div class="contact-form-container contact-card fade-in-up" style="transition-delay: 0.1s;">
-                        <form id="contact-form" class="contact-form" action="#" method="POST"
-                            style="display: flex; flex-direction: column; height: 100%;">
-                            <h3 style="display: flex; align-items: center; gap: 12px; margin-bottom: 1.8rem;">
+                    <div class="contact-form-container contact-card fade-in-up ut-delay-1">
+                        <form id="contact-form" class="contact-form ut-style-53" action="#" method="POST"
+                           >
+                            <h3 class="ut-style-49">
                                 <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="var(--clr-primary)"
                                     stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                     <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
@@ -1061,14 +1018,14 @@
                                     <option value="other">Other / Consultation</option>
                                 </select>
                             </div>
-                            <div class="form-group" style="flex-grow: 1; display: flex; flex-direction: column;">
+                            <div class="form-group ut-style-69">
                                 <label for="message">Message (Optional)</label>
-                                <textarea id="message" name="message"
-                                    style="flex-grow: 1; min-height: 120px; resize: vertical;"
+                                <textarea class="ut-style-70" id="message" name="message"
+                                   
                                     placeholder="Tell us how we can help you today..."></textarea>
                             </div>
-                            <button type="submit" class="btn btn-primary w-100"
-                                style="margin-top: 1rem; padding: 1.2rem; font-size: 1.1rem; font-weight: 700; letter-spacing: 0.5px; box-shadow: 0 10px 25px rgba(16, 185, 129, 0.3);">Submit
+                            <button type="submit" class="btn btn-primary w-100 ut-style-104"
+                               >Submit
                                 Request</button>
                         </form>
                     </div>
@@ -1077,181 +1034,6 @@
         </section>
     </main>
 
-    <footer class="footer">
-        <div class="container footer-container">
-            <!-- Column 1: Brand & About -->
-            <div class="footer-brand">
-
-                <h4 style="font-size: 1.1rem; text-transform: none; letter-spacing: 0; padding-bottom: 0;">About Dr.
-                    Gaurav Mathpal</h4>
-                <p style="margin-top: 1rem; color: #b0baba; line-height: 1.8; font-size: 0.9rem; max-width: 350px;">
-                    At our clinic, our goal is to provide the best dental care that you need. Dr. Mathpal has years of
-                    experience in prosthodontics and implantology. We were created with the singular aim of being a
-                    center of dental excellence in New Delhi. Equipped with the world's most advanced dental technology,
-                    we ensure our patients receive safe, painless, and highly effective treatments.
-                </p>
-            </div>
-
-            <!-- Column 2: Treatments / Services -->
-            <div class="footer-services">
-                <h4>Treatments</h4>
-                <ul>
-                    <li><a href="implants.html">Dental Implants</a></li>
-                    <li><a href="smile-designing.html">Smile Designing</a></li>
-                    <li><a href="rehabilitation.html">Rehabilitation</a></li>
-                    <li><a href="surgery.html">Surgical Procedures</a></li>
-                </ul>
-            </div>
-
-            <!-- Column 3: Quick Links / Conditions -->
-            <div class="footer-links">
-                <h4>Quick Links</h4>
-                <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="about.html">About Clinic</a></li>
-                    <li><a href="index.html#services">All Services</a></li>
-                    <li><a href="index.html#technology">Advanced Technology</a></li>
-                    <li><a href="index.html#gallery">Clinic Gallery</a></li>
-                    <li><a href="index.html#testimonials">Patient Reviews</a></li>
-                    <li><a href="contact.html">Contact Us</a></li>
-                </ul>
-            </div>
-
-            <!-- Column 4: Get In Touch & Map -->
-            <div class="footer-map">
-                <h4>Get In Touch</h4>
-                <div style="margin-bottom: 1.5rem; color: #b0baba; font-size: 0.95rem;">
-                    <p style="margin-bottom: 0.5rem; display: flex; align-items: center; gap: 10px;">
-                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                            <path
-                                d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
-                            </path>
-                        </svg>
-                        +91-98765-43210
-                    </p>
-                    <p style="margin-bottom: 0.5rem; display: flex; align-items: center; gap: 10px;">
-                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                            <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z">
-                            </path>
-                            <polyline points="22,6 12,13 2,6"></polyline>
-                        </svg>
-                        contact@drgauravmathpal.com
-                    </p>
-                    <p style="display: flex; align-items: flex-start; gap: 10px; line-height: 1.4;">
-                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                            style="flex-shrink: 0; margin-top: 3px;">
-                            <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
-                            <circle cx="12" cy="10" r="3"></circle>
-                        </svg>
-                        Dr. Gaurav Mathpal Dental Clinic, Sector 12, New Delhi, India
-                    </p>
-                </div>
-                <div class="map-embed">
-                    <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112000.00000000000!2d77.2090!3d28.6139!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDM2JzUwLjAiTiA3N8KwMTInMzIuNCJF!5e0!3m2!1sen!2sin!4v1610000000000!5m2!1sen!2sin"
-                        width="100%" height="150" style="border:0; border-radius: 8px;" allowfullscreen=""
-                        loading="lazy"></iframe>
-                </div>
-            </div>
-        </div>
-
-        <div class="container" style="border-top: 1px solid rgba(255,255,255,0.05); padding: 2rem 0; margin-top: 2rem;">
-            <p style="font-size: 0.8rem; color: #889291; line-height: 1.6; text-align: justify;">
-                <strong style="color: #fff;">Disclaimer:</strong> All the information on this website –
-                drgauravmathpal.com – is published in good faith and for general information purpose only. Dr. Gaurav
-                Mathpal Clinic does not make any warranties about the completeness, reliability and accuracy of this
-                information. Any action you take upon the information you find on this website, is strictly at your own
-                risk. Dr. Gaurav Mathpal Clinic will not be liable for any losses and/or damages in connection with the
-                use of our website.
-            </p>
-        </div>
-
-        <div class="footer-bottom">
-            <div class="container footer-bottom-flex">
-                <div class="footer-bottom-left">
-                    <p style="margin-bottom: 1rem; color: #889291;">
-                        Copyright &copy;
-                        <script>document.write(new Date().getFullYear())</script> Dr. Gaurav Mathpal. All Rights
-                        Reserved &nbsp;|&nbsp; <span style="color: #fff;">&hearts; With Love by RankMator</span>
-                    </p>
-                    <div class="policy-links"
-                        style="display: flex; flex-wrap: wrap; gap: 15px; font-size: 0.85rem; font-weight: 500;">
-                        <a href="#" style="color: #fff;">Privacy Policy</a>
-                        <a href="#" style="color: #fff;">Terms & Conditions</a>
-                        <a href="#" style="color: #fff;">Medical Disclaimer</a>
-                        <a href="#" style="color: #fff;">Refund Policy</a>
-                        <a href="#" style="color: #fff;">Cookie Policy</a>
-                        <a href="#" style="color: #fff;">Contact</a>
-                    </div>
-                </div>
-                <div class="footer-bottom-right">
-                    <div class="social-links" style="margin-top: 0;">
-                        <a href="https://www.facebook.com/panaceadental" target="_blank" aria-label="Facebook"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg></a>
-                        <a href="https://www.instagram.com/panacea_clinic_r/" target="_blank" aria-label="Instagram"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line></svg></a>
-                        <a href="https://www.youtube.com/channel/UCWmA77bYwksKciQaOdCvr8w" target="_blank" aria-label="YouTube"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"></path><polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02" fill="#fff"></polygon></svg></a>
-                        <a href="https://x.com/DrGauravMaiv" target="_blank" aria-label="X (Twitter)"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path></svg></a>
-                        <a href="https://www.linkedin.com/in/drgauravmathpal-panacea-68228341b/" target="_blank" aria-label="LinkedIn"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-    <!-- Lightbox Container -->
-    <div id="lightbox" class="lightbox">
-        <span class="lightbox-close">&times;</span>
-        <img class="lightbox-content" id="lightbox-img">
-    </div>
-
-    <!-- AI Patient Virtual Concierge Widget -->
-    <div class="ai-concierge-launcher" id="aiLauncher" aria-label="Open AI Dental Assistant">
-        <div class="launcher-pulse"></div>
-        <div class="launcher-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg></div>
-        <span class="launcher-badge">1</span>
-        <div class="launcher-tooltip">Ask Dr. Mathpal's AI Assistant</div>
-    </div>
-
-    <div class="ai-concierge-window" id="aiWindow">
-        <div class="ai-header">
-            <div class="ai-header-profile">
-                <div class="ai-avatar"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2C8 2 6 5 6 9v3c0 3.5 1.5 6 2.5 8 .5 1 1.5 2 2.5 2s1.5-1 2-3c.5 2 1 3 2 3s2-1 2.5-2C18.5 18 20 15.5 20 12V9c0-4-2-7-6-7z"></path></svg></div>
-                <div>
-                    <h4>Dr. Mathpal AI Care</h4>
-                    <span class="ai-status"><span class="status-dot"></span> Online & Conversing</span>
-                </div>
-            </div>
-            <button class="ai-close-btn" id="aiClose" aria-label="Close Chat">&times;</button>
-        </div>
-        <div class="ai-chat-body" id="aiChatBody">
-            <div class="ai-msg assistant">
-                <div class="ai-msg-content">
-                    Hello! Welcome to Dr. Gaurav Mathpal's Dental Clinic. I am your 24/7 AI Patient Concierge. Are
-                    you experiencing any dental discomfort, or seeking a radiant smile transformation today?
-                </div>
-                <span class="ai-time">Just now</span>
-            </div>
-        </div>
-        <div class="ai-quick-options" id="aiQuickOptions">
-            <button class="quick-chip" data-query="toothache" style="display:inline-flex;align-items:center;gap:4px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg> I have tooth pain</button>
-            <button class="quick-chip" data-query="implants" style="display:inline-flex;align-items:center;gap:4px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="4"></circle></svg> Painless Implants info</button>
-            <button class="quick-chip" data-query="smile" style="display:inline-flex;align-items:center;gap:4px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg> Hollywood Smile cost</button>
-            <button class="quick-chip" data-query="appointment" style="display:inline-flex;align-items:center;gap:4px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg> Book an Appointment</button>
-        </div>
-        <div class="ai-input-area">
-            <input type="text" id="aiInput" placeholder="Type your dental question...">
-            <button id="aiSendBtn" aria-label="Send Message"><svg width="18" height="18" viewBox="0 0 24 24" fill="none"
-                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <line x1="22" y1="2" x2="11" y2="13"></line>
-                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
-                </svg></button>
-        </div>
-    </div>
-
-    <!-- Scripts -->
-    <script src="js/scripts.js"></script>
+<?php include 'footer.php'; ?>
 </body>
-
 </html>
