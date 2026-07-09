@@ -15,7 +15,7 @@
       "@context": "https://schema.org",
       "@type": "Dentist",
       "name": "Dr. Gaurav Mathpal",
-      "image": "https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-16.jpg",
+      "image": "img/Dr.-Gaurav-Mathpal-Gallery-16.jpg",
       "@id": "https://drgauravmathpal.com/",
       "url": "https://drgauravmathpal.com/",
       "telephone": "+918079791010",
@@ -83,7 +83,7 @@
                     <!-- Blog Card 1 -->
                     <article class="glass-card ut-style-13">
                         <div class="ut-style-91">
-                            <img class="ut-style-129" src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-16.jpg" alt="Dental Implants Guide">
+                            <img class="ut-style-129" src="img/Dr.-Gaurav-Mathpal-Gallery-16.jpg" alt="Dental Implants Guide">
                             <span class="ut-style-116">Implantology</span>
                         </div>
                         <div class="ut-style-115">
@@ -106,7 +106,7 @@
                     <!-- Blog Card 2 -->
                     <article class="glass-card ut-style-13">
                         <div class="ut-style-91">
-                            <img class="ut-style-129" src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-13.jpg" alt="Hollywood Smile Designing">
+                            <img class="ut-style-129" src="img/Dr.-Gaurav-Mathpal-Gallery-13.jpg" alt="Hollywood Smile Designing">
                             <span class="ut-style-116">Aesthetic Dentistry</span>
                         </div>
                         <div class="ut-style-115">
@@ -129,7 +129,7 @@
                     <!-- Blog Card 3 -->
                     <article class="glass-card ut-style-13">
                         <div class="ut-style-91">
-                            <img class="ut-style-129" src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-9.jpg" alt="Painless Surgical Extractions">
+                            <img class="ut-style-129" src="img/Dr.-Gaurav-Mathpal-Gallery-9.jpg" alt="Painless Surgical Extractions">
                             <span class="ut-style-116">Painless Care</span>
                         </div>
                         <div class="ut-style-115">

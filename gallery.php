@@ -52,7 +52,7 @@ $cur_script = 'gallery.php';
                     <!-- Clinic Item 1 -->
                     <div class="gallery-card fade-in-up" data-category="clinic">
                         <div class="gallery-card-img-wrapper">
-                            <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-16.jpg" alt="Clinic Reception & Lounge" class="gallery-img">
+                            <img src="img/Dr.-Gaurav-Mathpal-Gallery-16.jpg" alt="Clinic Reception & Lounge" class="gallery-img">
                             <div class="gallery-card-overlay">
                                 <div class="gallery-zoom-badge">
                                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg>
@@ -72,7 +72,7 @@ $cur_script = 'gallery.php';
                     <!-- Events Item 1 -->
                     <div class="gallery-card fade-in-up" data-category="events">
                         <div class="gallery-card-img-wrapper">
-                            <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-1152x1536.jpeg" alt="Dr. Mathpal Clinical Excellence" class="gallery-img">
+                            <img src="img/Dr.-Gaurav-Mathpal-1152x1536.jpeg" alt="Dr. Mathpal Clinical Excellence" class="gallery-img">
                             <div class="gallery-card-overlay">
                                 <div class="gallery-zoom-badge">
                                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg>
@@ -92,7 +92,7 @@ $cur_script = 'gallery.php';
                     <!-- Clinic Item 2 -->
                     <div class="gallery-card fade-in-up" data-category="clinic">
                         <div class="gallery-card-img-wrapper">
-                            <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-11.jpg" alt="3D Guided Implant Suite" class="gallery-img">
+                            <img src="img/Dr.-Gaurav-Mathpal-Gallery-11.jpg" alt="3D Guided Implant Suite" class="gallery-img">
                             <div class="gallery-card-overlay">
                                 <div class="gallery-zoom-badge">
                                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg>
@@ -112,7 +112,7 @@ $cur_script = 'gallery.php';
                     <!-- Events Item 2 -->
                     <div class="gallery-card fade-in-up" data-category="events">
                         <div class="gallery-card-img-wrapper">
-                            <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/elementor/thumbs/dentist-examining-patient-s-teeth-qe03kh8h2wp8rykujwzwvndrmti2byeas4uh2fmnpy.jpg" alt="Comprehensive Clinical Assessment" class="gallery-img">
+                            <img src="img/dentist-examining-patient-s-teeth.jpg" alt="Comprehensive Clinical Assessment" class="gallery-img">
                             <div class="gallery-card-overlay">
                                 <div class="gallery-zoom-badge">
                                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg>
@@ -132,7 +132,7 @@ $cur_script = 'gallery.php';
                     <!-- Clinic Item 3 -->
                     <div class="gallery-card fade-in-up" data-category="clinic">
                         <div class="gallery-card-img-wrapper">
-                            <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-9.jpg" alt="Sterilization & Hygiene Suite" class="gallery-img">
+                            <img src="img/Dr.-Gaurav-Mathpal-Gallery-9.jpg" alt="Sterilization & Hygiene Suite" class="gallery-img">
                             <div class="gallery-card-overlay">
                                 <div class="gallery-zoom-badge">
                                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg>
@@ -152,7 +152,7 @@ $cur_script = 'gallery.php';
                     <!-- Events Item 3 -->
                     <div class="gallery-card fade-in-up" data-category="events">
                         <div class="gallery-card-img-wrapper">
-                            <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/elementor/thumbs/happy-smiling-teeth-qe03kh8h2wq0t3c4e4zkys9vrdz7z807xt6b1l667k.jpg" alt="Smile Transformation Showcase" class="gallery-img">
+                            <img src="img/happy-smiling-teeth.jpg" alt="Smile Transformation Showcase" class="gallery-img">
                             <div class="gallery-card-overlay">
                                 <div class="gallery-zoom-badge">
                                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg>
@@ -172,7 +172,7 @@ $cur_script = 'gallery.php';
                     <!-- Clinic Item 4 -->
                     <div class="gallery-card fade-in-up" data-category="clinic">
                         <div class="gallery-card-img-wrapper">
-                            <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-4.jpg" alt="Prosthodontic Consultation Suite" class="gallery-img">
+                            <img src="img/Dr.-Gaurav-Mathpal-Gallery-4.jpg" alt="Prosthodontic Consultation Suite" class="gallery-img">
                             <div class="gallery-card-overlay">
                                 <div class="gallery-zoom-badge">
                                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg>
@@ -392,7 +392,7 @@ $cur_script = 'gallery.php';
                     <!-- Events Item 9 -->
                     <div class="gallery-card fade-in-up" data-category="events">
                         <div class="gallery-card-img-wrapper">
-                            <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-16.jpg" alt="Global Oral Health Summit Reception" class="gallery-img">
+                            <img src="img/Dr.-Gaurav-Mathpal-Gallery-16.jpg" alt="Global Oral Health Summit Reception" class="gallery-img">
                             <div class="gallery-card-overlay">
                                 <div class="gallery-zoom-badge">
                                     <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line><line x1="11" y1="8" x2="11" y2="14"></line><line x1="8" y1="11" x2="14" y2="11"></line></svg>

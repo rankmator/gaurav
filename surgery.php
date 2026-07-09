@@ -15,7 +15,7 @@
       "@context": "https://schema.org",
       "@type": "Dentist",
       "name": "Dr. Gaurav Mathpal",
-      "image": "https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-16.jpg",
+      "image": "img/Dr.-Gaurav-Mathpal-Gallery-16.jpg",
       "@id": "https://drgauravmathpal.com/",
       "url": "https://drgauravmathpal.com/",
       "telephone": "+918079791010",
@@ -430,7 +430,7 @@
             <div class="container">
                 <div class="doctor-profile-card fade-in-up">
                     <div class="doctor-profile-image-col">
-                        <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-16.jpg"
+                        <img src="img/Dr.-Gaurav-Mathpal-Gallery-16.jpg"
                             alt="Dr. Gaurav Mathpal Oral Surgical Specialist" class="profile-card-img">
                     </div>
                     <div class="doctor-profile-content-col">

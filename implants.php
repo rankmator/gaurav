@@ -15,7 +15,7 @@
       "@context": "https://schema.org",
       "@type": "Dentist",
       "name": "Dr. Gaurav Mathpal",
-      "image": "https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-16.jpg",
+      "image": "img/Dr.-Gaurav-Mathpal-Gallery-16.jpg",
       "@id": "https://drgauravmathpal.com/",
       "url": "https://drgauravmathpal.com/",
       "telephone": "+918079791010",
@@ -285,7 +285,7 @@
                     <div class="solution-card-modern">
                         <div>
                             <div class="solution-img-box">
-                                <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-11.jpg"
+                                <img src="img/Dr.-Gaurav-Mathpal-Gallery-11.jpg"
                                     alt="Full Mouth Rehabilitation All-on-4">
                             </div>
                             <div class="solution-title-pill">Full Mouth Rehabilitation</div>
@@ -317,7 +317,7 @@
                     <div class="solution-card-modern">
                         <div>
                             <div class="solution-img-box">
-                                <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/elementor/thumbs/happy-smiling-teeth-qe03kh8h2wq0t3c4e4zkys9vrdz7z807xt6b1l667k.jpg"
+                                <img src="img/happy-smiling-teeth.jpg"
                                     alt="Teeth in a Day Immediate Load">
                             </div>
                             <div class="solution-title-pill">Immediate Load Implants</div>
@@ -559,7 +559,7 @@
             <div class="container">
                 <div class="doctor-profile-card fade-in-up">
                     <div class="doctor-profile-image-col">
-                        <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-1152x1536.jpeg"
+                        <img src="img/Dr.-Gaurav-Mathpal-1152x1536.jpeg"
                             alt="Dr. Gaurav Mathpal Implant Specialist" class="profile-card-img">
                     </div>
                     <div class="doctor-profile-content-col">

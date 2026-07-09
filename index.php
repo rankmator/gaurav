@@ -15,7 +15,7 @@
       "@context": "https://schema.org",
       "@type": "Dentist",
       "name": "Dr. Gaurav Mathpal",
-      "image": "https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-16.jpg",
+      "image": "img/Dr.-Gaurav-Mathpal-Gallery-16.jpg",
       "@id": "https://drgauravmathpal.com/",
       "url": "https://drgauravmathpal.com/",
       "telephone": "+918079791010",
@@ -142,7 +142,7 @@
                         <!-- Floating Glass Widget 1: Doctor Credibility -->
                         <div class="hero-glass-widget widget-top-left">
                             <div class="widget-avatar">
-                                <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-1152x1536.jpeg" alt="Dr. Gaurav Mathpal">
+                                <img src="img/Dr.-Gaurav-Mathpal-1152x1536.jpeg" alt="Dr. Gaurav Mathpal">
                             </div>
                             <div class="widget-content">
                                 <div class="widget-tag"><svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"></path></svg> Lead Clinician</div>
@@ -178,7 +178,7 @@
             <div class="container">
                 <div class="doctor-profile-card fade-in-up">
                     <div class="doctor-profile-image-col">
-                        <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-1152x1536.jpeg"
+                        <img src="img/Dr.-Gaurav-Mathpal-1152x1536.jpeg"
                             alt="Dr. Gaurav Mathpal" class="profile-card-img">
                     </div>
                     <div class="doctor-profile-content-col">
@@ -507,7 +507,7 @@
         <section id="why-us" class="why-us section-padding">
             <div class="container why-us-container">
                 <div class="why-us-image fade-in">
-                    <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/elementor/thumbs/dentist-examining-patient-s-teeth-qe03kh8h2wp8rykujwzwvndrmti2byeas4uh2fmnpy.jpg"
+                    <img src="img/dentist-examining-patient-s-teeth.jpg"
                         alt="State of the art dental clinic">
                     <div class="floating-badge solid-card">
                         <span class="badge-number">10+</span>
@@ -619,7 +619,7 @@
                     <div class="tech-card spotlight-card glass-card fade-in-up ut-delay-2" data-category="surgical safety"
                        >
                         <div class="spotlight-image-box">
-                            <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/elementor/thumbs/dentist-examining-patient-s-teeth-qe03kh8h2wp8rykujwzwvndrmti2byeas4uh2fmnpy.jpg"
+                            <img src="img/dentist-examining-patient-s-teeth.jpg"
                                 alt="State of the Art German Dental Technology">
                             <div class="spotlight-badge-floating">
                                 <span class="dot-live"></span> ISO CERTIFIED FACILITY
@@ -751,17 +751,17 @@
                     <p>Take a tour of our modern, relaxing, and highly equipped dental facility.</p>
                 </div>
                 <div class="gallery-grid">
-                    <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-16.jpg"
+                    <img src="img/Dr.-Gaurav-Mathpal-Gallery-16.jpg"
                         alt="Clinic Reception" class="gallery-img fade-in-up">
-                    <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/elementor/thumbs/dentist-examining-patient-s-teeth-qe03kh8h2wp8rykujwzwvndrmti2byeas4uh2fmnpy.jpg"
+                    <img src="img/dentist-examining-patient-s-teeth.jpg"
                         alt="Treatment Room 1" class="gallery-img fade-in-up ut-delay-1">
-                    <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/elementor/thumbs/happy-smiling-teeth-qe03kh8h2wq0t3c4e4zkys9vrdz7z807xt6b1l667k.jpg"
+                    <img src="img/happy-smiling-teeth.jpg"
                         alt="Consultation Area" class="gallery-img fade-in-up ut-delay-2">
-                    <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-11.jpg"
+                    <img src="img/Dr.-Gaurav-Mathpal-Gallery-11.jpg"
                         alt="Advanced Equipment" class="gallery-img fade-in-up ut-delay-3">
-                    <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-9.jpg"
+                    <img src="img/Dr.-Gaurav-Mathpal-Gallery-9.jpg"
                         alt="Sterilization Room" class="gallery-img fade-in-up ut-delay-4">
-                    <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-4.jpg"
+                    <img src="img/Dr.-Gaurav-Mathpal-Gallery-4.jpg"
                         alt="Patient Waiting Lounge" class="gallery-img fade-in-up ut-transition-delay-0-5s">
                 </div>
             </div>

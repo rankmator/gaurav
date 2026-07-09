@@ -2836,7 +2836,7 @@ img {
    ========================================================================== */
 .cta-section {
   position: relative;
-  background-image: url('https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&q=80&w=1920');
+  background-image: url('../img/cta-bg.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;

@@ -15,7 +15,7 @@
       "@context": "https://schema.org",
       "@type": "Dentist",
       "name": "Dr. Gaurav Mathpal",
-      "image": "https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-16.jpg",
+      "image": "img/Dr.-Gaurav-Mathpal-Gallery-16.jpg",
       "@id": "https://drgauravmathpal.com/",
       "url": "https://drgauravmathpal.com/",
       "telephone": "+918079791010",
@@ -91,7 +91,7 @@
                     </div>
                 </div>
                 <div class="about-hero-image-wrapper fade-in">
-                    <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-16.jpg"
+                    <img src="img/Dr.-Gaurav-Mathpal-Gallery-16.jpg"
                         alt="Dr. Gaurav Mathpal in Operatory">
                     <div class="about-floating-badge">
                         <span class="ut-style-68"><svg
@@ -458,17 +458,17 @@
             </div>
 
             <div class="gallery-grid ut-mt-3rem">
-                <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-16.jpg"
+                <img src="img/Dr.-Gaurav-Mathpal-Gallery-16.jpg"
                     alt="Dr. Gaurav Mathpal Operatory" class="gallery-img fade-in-up">
-                <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-16.jpg"
+                <img src="img/Dr.-Gaurav-Mathpal-Gallery-16.jpg"
                     alt="Modern Clinic Reception Lounge" class="gallery-img fade-in-up ut-delay-1">
-                <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/elementor/thumbs/dentist-examining-patient-s-teeth-qe03kh8h2wp8rykujwzwvndrmti2byeas4uh2fmnpy.jpg"
+                <img src="img/dentist-examining-patient-s-teeth.jpg"
                     alt="Advanced Treatment Suite" class="gallery-img fade-in-up ut-delay-2">
-                <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-11.jpg"
+                <img src="img/Dr.-Gaurav-Mathpal-Gallery-11.jpg"
                     alt="Diagnostic Equipment" class="gallery-img fade-in-up ut-delay-3">
-                <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-9.jpg"
+                <img src="img/Dr.-Gaurav-Mathpal-Gallery-9.jpg"
                     alt="Sterilization & Hygiene Suite" class="gallery-img fade-in-up ut-delay-4">
-                <img src="https://drgauravmathpal.com/wp-content/uploads/sites/4/2023/10/Dr.-Gaurav-Mathpal-Gallery-4.jpg"
+                <img src="img/Dr.-Gaurav-Mathpal-Gallery-4.jpg"
                     alt="Patient Waiting Lounge" class="gallery-img fade-in-up ut-transition-delay-0-5s">
             </div>
         </div>
