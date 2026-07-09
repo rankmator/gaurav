@@ -59,7 +59,7 @@
                         </path>
                         <polyline points="22,6 12,13 2,6"></polyline>
                     </svg>
-                    info@drgauravmathpal.com
+                    info@drgauravmathpal.in
                 </p>
                 <p class="ut-style-52">
                     <svg class="ut-flex-shrink-0-margin-top-3px" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
@@ -83,7 +83,7 @@
     <div class="container footer-disclaimer-container">
         <p class="footer-disclaimer-text">
             <strong class="ut-text-white">Disclaimer:</strong> All the information on this website –
-            drgauravmathpal.com – is published in good faith and for general information purpose only. Dr. Gaurav
+            drgauravmathpal.in – is published in good faith and for general information purpose only. Dr. Gaurav
             Mathpal Clinic does not make any warranties about the completeness, reliability and accuracy of this
             information. Any action you take upon the information you find on this website, is strictly at your own
             risk. Dr. Gaurav Mathpal Clinic will not be liable for any losses and/or damages in connection with the

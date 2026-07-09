@@ -16,8 +16,8 @@
       "@type": "Dentist",
       "name": "Dr. Gaurav Mathpal",
       "image": "img/Dr.-Gaurav-Mathpal-Gallery-16.jpg",
-      "@id": "https://drgauravmathpal.com/",
-      "url": "https://drgauravmathpal.com/",
+      "@id": "https://drgauravmathpal.in/",
+      "url": "https://drgauravmathpal.in/",
       "telephone": "+918079791010",
       "address": {
         "@type": "PostalAddress",

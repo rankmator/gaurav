@@ -16,8 +16,8 @@
       "@type": "Dentist",
       "name": "Dr. Gaurav Mathpal",
       "image": "img/Dr.-Gaurav-Mathpal-Gallery-16.jpg",
-      "@id": "https://drgauravmathpal.com/",
-      "url": "https://drgauravmathpal.com/",
+      "@id": "https://drgauravmathpal.in/",
+      "url": "https://drgauravmathpal.in/",
       "telephone": "+918079791010",
       "address": {
         "@type": "PostalAddress",
@@ -757,7 +757,7 @@
                             </div>
                             <div class="info-text">
                                 <h4>Email Inquiries</h4>
-                                <p><a href="mailto:info@drgauravmathpal.com">info@drgauravmathpal.com</a></p>
+                                <p><a href="mailto:info@drgauravmathpal.in">info@drgauravmathpal.in</a></p>
                             </div>
                         </div>
 
