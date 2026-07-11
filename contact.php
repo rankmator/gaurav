@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dr. Gaurav Mathpal | Prosthodontist & Implantologist in New Delhi</title>
-    <meta name="description" content="Dr. Gaurav Mathpal - Prosthodontist and Implantologist in New Delhi. Specializing in Implants, Smile Designing, Root Canal, and TMJ Disorders.">
+    <meta name="description"
+        content="Dr. Gaurav Mathpal - Prosthodontist and Implantologist in New Delhi. Specializing in Implants, Smile Designing, Root Canal, and TMJ Disorders.">
 
     <?php include 'nav-links.php'; ?>
 
@@ -21,9 +22,9 @@
       "telephone": "+918079791010",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Sector 12",
+        "streetAddress": "Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market",
         "addressLocality": "New Delhi",
-        "postalCode": "110075",
+        "postalCode": "110014",
         "addressCountry": "IN"
       },
       "geo": {
@@ -65,8 +66,11 @@
             <div class="container">
                 <div class="about-hero-content fade-in-up contact-hero-center">
                     <span class="badge hero-badge">
-                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-                            <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <polygon
+                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                            </polygon>
                         </svg> Priority Appointment Scheduling
                     </span>
                     <h1 class="hero-title">
@@ -77,7 +81,9 @@
                         World-Class Prosthodontics, Laser & Implantology in New Delhi
                     </p>
                     <p class="hero-desc">
-                        Whether you need an urgent clinical consultation, second opinion for complex dental rehabilitation, or a complete painless smile transformation, Dr. Gaurav Mathpal and his specialized team are here to provide exceptional, laser-guided dental care.
+                        Whether you need an urgent clinical consultation, second opinion for complex dental
+                        rehabilitation, or a complete painless smile transformation, Dr. Gaurav Mathpal and his
+                        specialized team are here to provide exceptional, laser-guided dental care.
                     </p>
                 </div>
 
@@ -92,7 +98,7 @@
                         <span class="stat-lbl">Priority Booking Slots</span>
                     </div>
                     <div class="profile-stat-item">
-                        <span class="stat-num">Sector 12</span>
+                        <span class="stat-num">Jungpura Ext.</span>
                         <span class="stat-lbl">Central New Delhi Clinic</span>
                     </div>
                     <div class="profile-stat-item">
@@ -107,7 +113,7 @@
         <section id="contact" class="contact section-padding light-contact-section">
             <div class="container contact-container">
                 <div class="section-header fade-in contact-section-mb">
-                    <h2>Get In <span class="highlight">Touch</span></h2>
+                    <h2>Get In <span class="italic-green">Touch</span></h2>
                     <p>Ready to transform your smile? Schedule your appointment today.</p>
                 </div>
 
@@ -116,16 +122,26 @@
                     <div class="contact-info contact-card fade-in">
                         <div class="info-item">
                             <div class="icon-circle contact-icon">
-                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                                    <circle cx="12" cy="10" r="3"></circle>
+                                </svg>
                             </div>
                             <div class="info-text">
                                 <h4>Visit Us</h4>
-                                <p>Dr. Gaurav Mathpal Dental Clinic<br>Sector 12, New Delhi, India</p>
+                                <p>Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market, New Delhi,
+                                    Delhi 110014</p>
                             </div>
                         </div>
                         <div class="info-item">
                             <div class="icon-circle contact-icon">
-                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path
+                                        d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
+                                    </path>
+                                </svg>
                             </div>
                             <div class="info-text">
                                 <h4>Call Us</h4>
@@ -134,7 +150,13 @@
                         </div>
                         <div class="info-item">
                             <div class="icon-circle contact-icon">
-                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path
+                                        d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z">
+                                    </path>
+                                    <polyline points="22,6 12,13 2,6"></polyline>
+                                </svg>
                             </div>
                             <div class="info-text">
                                 <h4>Email Us</h4>
@@ -143,7 +165,11 @@
                         </div>
                         <div class="info-item">
                             <div class="icon-circle contact-icon">
-                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="12" cy="12" r="10"></circle>
+                                    <polyline points="12 6 12 12 16 14"></polyline>
+                                </svg>
                             </div>
                             <div class="info-text">
                                 <h4>Working Hours</h4>
@@ -154,22 +180,20 @@
                         <div class="map-container contact-map-wrapper">
                             <!-- Google Maps Embed -->
                             <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112000.00000000000!2d77.2090!3d28.6139!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDM2JzUwLjAiTiA3N8KwMTInMzIuNCJF!5e0!3m2!1sen!2sin!4v1610000000000!5m2!1sen!2sin"
-                                class="contact-map-iframe"
-                                allowfullscreen="" loading="lazy"></iframe>
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.610471133003!2d77.2416708!3d28.580612499999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce382000acbb1%3A0x66069007dd0c4f65!2sPanacea%20Clinic%20-%20Dr.%20Gaurav%20Mathpal%2C%20Prosthodontist%20and%20Implantologist%2C%20New%20Delhi!5e1!3m2!1sen!2sin!4v1783781236625!5m2!1sen!2sin"
+                                class="contact-map-iframe" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
                         </div>
                     </div>
 
                     <!-- Contact Form -->
                     <div class="contact-form-container contact-card fade-in-up contact-form-card">
                         <form id="contact-form" class="contact-form contact-form-layout" action="#" method="POST">
-<?php if ($form_submitted): ?>
-<div class="contact-success-alert">
-    Thank you, <?php echo $visitor_name; ?>! Your appointment request has been successfully submitted. Our team will contact you shortly.
-</div>
-<?php endif; ?>
+
                             <h3 class="contact-form-title">
-                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="var(--clr-primary)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
+                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="var(--clr-primary)"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+                                </svg>
                                 Book an Appointment
                             </h3>
                             <div class="form-group">
@@ -196,7 +220,8 @@
                                 <textarea id="message" name="message" class="contact-textarea"
                                     placeholder="Tell us how we can help you today..."></textarea>
                             </div>
-                            <button type="submit" class="btn btn-primary w-100 contact-submit-btn">Submit Request</button>
+                            <button type="submit" class="btn btn-primary w-100 contact-submit-btn">Submit
+                                Request</button>
                         </form>
                     </div>
                 </div>
@@ -210,32 +235,46 @@
                     <div class="services-intro-block fade-in-up">
                         <div>
                             <span class="badge ut-mb15-inblock">Excellence in Dental Care</span>
-                            <h2 class="ut-style-88">Our Specialised <span class="highlight">Services</span></h2>
+                            <h2 class="ut-style-88">Our Specialised <span class="italic-green">Services</span></h2>
                             <p class="ut-style-76">
-                                We provide comprehensive, cutting-edge dental care tailored to your comfort. Utilizing world-class diagnostic technology and specialized clinical precision, our treatments are engineered for lasting perfection and completely painless results.
+                                We provide comprehensive, cutting-edge dental care tailored to your comfort. Utilizing
+                                world-class diagnostic technology and specialized clinical precision, our treatments are
+                                engineered for lasting perfection and completely painless results.
                             </p>
                             <div class="intro-features ut-style-57">
                                 <div class="ut-style-47">
                                     <span class="ut-style-2">
-                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#10B981"
+                                            stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                                            <polyline points="20 6 9 17 4 12"></polyline>
+                                        </svg>
                                     </span>
                                     100% Painless Procedures
                                 </div>
                                 <div class="ut-style-47">
                                     <span class="ut-style-2">
-                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#10B981"
+                                            stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                                            <polyline points="20 6 9 17 4 12"></polyline>
+                                        </svg>
                                     </span>
                                     3D Digital Guided Implants
                                 </div>
                                 <div class="ut-style-47">
                                     <span class="ut-style-2">
-                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#10B981"
+                                            stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                                            <polyline points="20 6 9 17 4 12"></polyline>
+                                        </svg>
                                     </span>
                                     IIT Delhi CEP Certified Care
                                 </div>
                                 <div class="ut-style-47">
                                     <span class="ut-style-2">
-                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+                                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#10B981"
+                                            stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+                                            <polyline points="20 6 9 17 4 12"></polyline>
+                                        </svg>
                                     </span>
                                     Single-Sitting Laser RCT
                                 </div>
@@ -244,11 +283,16 @@
                             <div class="ut-style-18">
                                 <div class="ut-style-48">
                                     <div class="ut-style-131">
-                                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+                                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none"
+                                            stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                            stroke-linejoin="round">
+                                            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                                        </svg>
                                     </div>
                                     <div>
                                         <strong class="ut-style-24">Tailored Clinical Precision</strong>
-                                        <span class="ut-style-31">Backed by 15+ years of specialized prosthodontic excellence.</span>
+                                        <span class="ut-style-31">Backed by 15+ years of specialized prosthodontic
+                                            excellence.</span>
                                     </div>
                                 </div>
                                 <a class="ut-style-25" href="about.php">
@@ -267,12 +311,19 @@
                             <h3>Dental Implants</h3>
                         </div>
                         <div class="service-content">
-                            <p>Single, Multiple, Single Jaw, or Full Mouth Implants. Regain natural functionality with painless precision.</p>
+                            <p>Single, Multiple, Single Jaw, or Full Mouth Implants. Regain natural functionality with
+                                painless precision.</p>
                         </div>
                         <div class="service-actions">
                             <a href="implants.php" class="btn-service btn-service-appt ut-style-21">Learn More</a>
                             <a href="tel:+918079791010" class="btn-service btn-service-call">
-                                <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                                <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none"
+                                    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round">
+                                    <path
+                                        d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
+                                    </path>
+                                </svg>
                                 Call Us
                             </a>
                         </div>
@@ -287,12 +338,20 @@
                             <h3>Smile Designing</h3>
                         </div>
                         <div class="service-content">
-                            <p>Transform your look with a customized Hollywood Smile, expertly designed for stunning, natural aesthetics.</p>
+                            <p>Transform your look with a customized Hollywood Smile, expertly designed for stunning,
+                                natural aesthetics.</p>
                         </div>
                         <div class="service-actions">
-                            <a href="smile-designing.php" class="btn-service btn-service-appt ut-style-21">Learn More</a>
+                            <a href="smile-designing.php" class="btn-service btn-service-appt ut-style-21">Learn
+                                More</a>
                             <a href="tel:+918079791010" class="btn-service btn-service-call">
-                                <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                                <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none"
+                                    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round">
+                                    <path
+                                        d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
+                                    </path>
+                                </svg>
                                 Call Us
                             </a>
                         </div>
@@ -307,12 +366,19 @@
                             <h3>Rehabilitation</h3>
                         </div>
                         <div class="service-content">
-                            <p>Specialized restorative care for Trauma and Post-oncology patients, ensuring full mouth function and comfort.</p>
+                            <p>Specialized restorative care for Trauma and Post-oncology patients, ensuring full mouth
+                                function and comfort.</p>
                         </div>
                         <div class="service-actions">
                             <a href="rehabilitation.php" class="btn-service btn-service-appt ut-style-21">Learn More</a>
                             <a href="tel:+918079791010" class="btn-service btn-service-call">
-                                <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                                <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none"
+                                    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round">
+                                    <path
+                                        d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
+                                    </path>
+                                </svg>
                                 Call Us
                             </a>
                         </div>
@@ -327,12 +393,19 @@
                             <h3>Surgical Procedures</h3>
                         </div>
                         <div class="service-content">
-                            <p>Completely painless extractions and painless surgical extractions, keeping your comfort as our highest priority.</p>
+                            <p>Completely painless extractions and painless surgical extractions, keeping your comfort
+                                as our highest priority.</p>
                         </div>
                         <div class="service-actions">
                             <a href="surgery.php" class="btn-service btn-service-appt ut-style-21">Learn More</a>
                             <a href="tel:+918079791010" class="btn-service btn-service-call">
-                                <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+                                <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none"
+                                    stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round">
+                                    <path
+                                        d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
+                                    </path>
+                                </svg>
                                 Call Us
                             </a>
                         </div>
@@ -342,6 +415,7 @@
         </section>
     </main>
 
-<?php include 'footer.php'; ?>
+    <?php include 'footer.php'; ?>
 </body>
+
 </html>

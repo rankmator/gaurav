@@ -1,28 +1,50 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // 1. Mobile Navigation Toggle
+    // 1. Mobile Navigation Toggle & Dropdowns
     const navToggle = document.querySelector('.mobile-nav-toggle');
     const primaryNav = document.querySelector('.primary-navigation');
 
-    navToggle.addEventListener('click', () => {
-        const isVisible = primaryNav.getAttribute('data-visible');
-        
-        if (isVisible === "false") {
-            primaryNav.setAttribute('data-visible', "true");
-            navToggle.setAttribute('aria-expanded', "true");
-        } else {
-            primaryNav.setAttribute('data-visible', "false");
-            navToggle.setAttribute('aria-expanded', "false");
-        }
-    });
-
-    // Close nav when a link is clicked
-    const navLinks = document.querySelectorAll('.primary-navigation a');
-    navLinks.forEach(link => {
-        link.addEventListener('click', () => {
-            primaryNav.setAttribute('data-visible', "false");
-            navToggle.setAttribute('aria-expanded', "false");
+    if (navToggle && primaryNav) {
+        navToggle.addEventListener('click', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            const isVisible = primaryNav.getAttribute('data-visible');
+            
+            if (isVisible === "false" || !isVisible) {
+                primaryNav.setAttribute('data-visible', "true");
+                navToggle.setAttribute('aria-expanded', "true");
+                document.body.style.overflow = 'hidden';
+            } else {
+                primaryNav.setAttribute('data-visible', "false");
+                navToggle.setAttribute('aria-expanded', "false");
+                document.body.style.overflow = '';
+            }
         });
-    });
+
+        // Handle Services dropdown toggle in mobile drawer
+        const dropdownToggles = document.querySelectorAll('.primary-navigation .dropdown-toggle');
+        dropdownToggles.forEach(toggle => {
+            toggle.addEventListener('click', (e) => {
+                if (window.innerWidth <= 992) {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    const parentDropdown = toggle.closest('.nav-item.dropdown');
+                    if (parentDropdown) {
+                        parentDropdown.classList.toggle('active');
+                    }
+                }
+            });
+        });
+
+        // Close nav when a normal link is clicked (excluding dropdown toggles)
+        const navLinks = document.querySelectorAll('.primary-navigation a:not(.dropdown-toggle)');
+        navLinks.forEach(link => {
+            link.addEventListener('click', () => {
+                primaryNav.setAttribute('data-visible', "false");
+                navToggle.setAttribute('aria-expanded', "false");
+                document.body.style.overflow = '';
+            });
+        });
+    }
 
     // 2. Sticky Header styling on scroll
     const header = document.getElementById('header');
@@ -64,7 +86,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (lightbox && lightboxImg && galleryImages.length > 0) {
         galleryImages.forEach(img => {
-            img.addEventListener('click', () => {
+            img.addEventListener('click', (e) => {
+                if (img.closest('.gallery-card')) return;
+                e.preventDefault();
+                e.stopPropagation();
                 lightbox.style.display = 'flex';
                 lightboxImg.src = img.src;
             });

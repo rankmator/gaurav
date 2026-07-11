@@ -21,9 +21,9 @@
       "telephone": "+918079791010",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Sector 12",
+        "streetAddress": "Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market",
         "addressLocality": "New Delhi",
-        "postalCode": "110075",
+        "postalCode": "110014",
         "addressCountry": "IN"
       },
       "geo": {
@@ -66,7 +66,7 @@
                 <div class="fade-in-up">
                     <span class="badge ut-style-97"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg> Dental Health Insights & Articles</span>
                     <h1 class="ut-style-89">
-                        Expert Guidance for Your <span class="highlight">Perfect Smile</span>
+                        Expert Guidance for Your <span class="italic-green">Perfect Smile</span>
                     </h1>
                     <p class="ut-style-78">
                         Stay informed on modern advancements in implantology, Hollywood smile makeovers, painless dental surgeries, and preventative oral hygiene authored by Dr. Gaurav Mathpal.
@@ -156,7 +156,7 @@
         <!-- CTA Section -->
         <section class="section-padding ut-style-19">
             <div class="container ut-max-width-800px">
-                <h2 class="ut-style-42">Have Questions About Your Dental Health?</h2>
+                <h2 class="ut-style-42">Have Questions About Your <span class="italic-green">Dental Health?</span></h2>
                 <p class="ut-style-79">Book a personalized consultation with Dr. Gaurav Mathpal and receive expert diagnostic care tailored to your smile.</p>
                 <a href="contact.php" class="btn ut-style-14">Book Your Consultation</a>
             </div>

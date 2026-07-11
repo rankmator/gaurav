@@ -37,9 +37,9 @@ $is_services = in_array($cur_script, ['implants.php', 'smile-designing.php', 're
       "telephone": "+918079791010",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Sector 12",
+        "streetAddress": "Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market",
         "addressLocality": "New Delhi",
-        "postalCode": "110075",
+        "postalCode": "110014",
         "addressCountry": "IN"
       },
       "geo": {

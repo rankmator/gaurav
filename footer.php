@@ -68,6 +68,7 @@
                         <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
                         <circle cx="12" cy="10" r="3"></circle>
                     </svg>
+                    Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market, New Delhi, Delhi 110014
                 </p>
             </div>
             <div class="social-links footer-social-wrapper">
@@ -98,14 +99,7 @@
                     Copyright &copy; 2026 Dr. Gaurav Mathpal. All Rights
                     Reserved &nbsp;|&nbsp; <span class="ut-text-white">&hearts; With Love by RankMator</span>
                 </p>
-                <div class="policy-links footer-policy-list">
-                    <a class="ut-text-white" href="#">Privacy Policy</a>
-                    <a class="ut-text-white" href="#">Terms & Conditions</a>
-                    <a class="ut-text-white" href="#">Medical Disclaimer</a>
-                    <a class="ut-text-white" href="#">Refund Policy</a>
-                    <a class="ut-text-white" href="#">Cookie Policy</a>
-                    <a class="ut-text-white" href="contact.php">Contact</a>
-                </div>
+                
             </div>
         </div>
     </div>

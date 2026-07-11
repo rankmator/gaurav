@@ -21,9 +21,9 @@
       "telephone": "+918079791010",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Sector 12",
+        "streetAddress": "Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market",
         "addressLocality": "New Delhi",
-        "postalCode": "110075",
+        "postalCode": "110014",
         "addressCountry": "IN"
       },
       "geo": {
@@ -125,7 +125,7 @@
            >
             <div class="container">
                 <div class="section-header text-center fade-in">
-                    <h2>Why Choose <span class="highlight">Digital Smile Designing?</span></h2>
+                    <h2>Why Choose <span class="italic-green">Digital Smile Designing?</span></h2>
                     <p>Discover why custom porcelain veneers and 3D digital mockups are universally recognized as the gold standard for tooth makeovers.</p>
                 </div>
 
@@ -176,7 +176,7 @@
                     <!-- Top Left: Hero Card (Spans 2 Columns) -->
                     <div class="solutions-hero-card">
                         <span class="solutions-hero-pill">EXCELLENCE IN DENTAL CARE</span>
-                        <h3>Our Specialised <span class="italic-green">Solutions</span></h3>
+                        <h3>Our Specialised <span class="italic-green">Services</span></h3>
                         <p class="solutions-hero-desc">We provide comprehensive, cutting-edge aesthetic restorations tailored to your facial harmony and lip architecture. Utilizing world-class 3D diagnostic scans and specialized clinical precision, our ceramic treatments are engineered for lasting radiance and completely painless results.</p>
                         <div class="solutions-hero-checks">
                             <div class="solutions-check-item">
@@ -267,7 +267,7 @@
             <div class="container">
                 <div class="section-header text-center fade-in">
                     <span class="badge ut-mb12-inblock">CLINICAL SUPERIORITY & E-E-A-T</span>
-                    <h2>Evidence-Based <span class="highlight">Smile Designing</span></h2>
+                    <h2>Evidence-Based <span class="italic-green">Smile Designing</span></h2>
                     <p>Why biomimetic 0.3mm preparation and 3D digital planning make our custom ceramic makeovers the permanent gold standard.</p>
                 </div>
 
@@ -342,7 +342,7 @@
         <section id="protocol" class="section-padding ut-bg-white">
             <div class="container">
                 <div class="section-header text-center fade-in">
-                    <h2>Our Painless 4-Step <span class="highlight">Protocol</span></h2>
+                    <h2>Our Painless 4-Step <span class="italic-green">Protocol</span></h2>
                     <p>Experience how digital planning and ergonomic precision transform smile designing into a relaxing journey.</p>
                 </div>
 
@@ -387,7 +387,7 @@
             <div class="container">
                 <div class="section-header text-center fade-in">
                     <span class="badge ut-mb12-inblock">Clinical Case Studies</span>
-                    <h2>Smile Transformations <span class="highlight">(Before & After)</span></h2>
+                    <h2>Smile Transformations <span class="italic-green">(Before & After)</span></h2>
                     <p>Real clinical documentation of aesthetic and reconstructive smile makeovers achieved at our center.</p>
                 </div>
                 <div class="ba-grid ut-mt-3rem">
@@ -483,7 +483,7 @@
             <div class="container ut-pos-rel-z2">
                 <div class="section-header text-center fade-in">
                     <span class="badge ut-mb12-inblock">Patient Reviews</span>
-                    <h2>Makeover Stories. <span class="highlight">Radiant Smiles.</span></h2>
+                    <h2>Makeover Stories. <span class="italic-green">Radiant Smiles.</span></h2>
                     <p>Read genuine testimonials from patients who transformed their confidence through custom smile designing.</p>
                 </div>
 
@@ -628,7 +628,7 @@
             <div class="container ut-pos-rel-z2">
                 <div class="section-header text-center fade-in">
                     <span class="badge ut-mb12-inblock">Patient Education</span>
-                    <h2>Frequently Asked Questions <span class="highlight">About Smile Designing</span></h2>
+                    <h2>Frequently Asked Questions <span class="italic-green">About Smile Designing</span></h2>
                     <p>Comprehensive clinical answers to address your cosmetic dentistry inquiries.</p>
                 </div>
 
@@ -709,7 +709,7 @@
             <div class="container ut-pos-rel-z2">
                 <div class="section-header text-center fade-in">
                     <span class="badge ut-mb12-inblock">Begin Your Journey</span>
-                    <h2>Schedule Your <span class="highlight">DSD Evaluation</span></h2>
+                    <h2>Schedule Your <span class="italic-green">DSD Evaluation</span></h2>
                     <p>Consult directly with Dr. Gaurav Mathpal for bespoke digital smile architecture.</p>
                 </div>
 
@@ -726,7 +726,7 @@
                             </div>
                             <div class="info-text">
                                 <h4>Clinic Location</h4>
-                                <p>Sector 12, Main Market, New Delhi, Delhi 110001</p>
+                                <p>Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market, New Delhi, Delhi 110014</p>
                             </div>
                         </div>
 
@@ -778,11 +778,8 @@
                         <!-- Embedded Interactive Map -->
                         <div class="map-container ut-margin-top-2-5rem">
                             <iframe class="ut-style-23"
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14013.82914175323!2d77.0366838!3d28.5861112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1bc719000001%3A0x600b3438e83b1451!2sDwarka%20Sector%2012!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
-                                width="100%" height="220"
-                               
-                                allowfullscreen="" loading="lazy"
-                                referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.610471133003!2d77.2416708!3d28.580612499999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce382000acbb1%3A0x66069007dd0c4f65!2sPanacea%20Clinic%20-%20Dr.%20Gaurav%20Mathpal%2C%20Prosthodontist%20and%20Implantologist%2C%20New%20Delhi!5e1!3m2!1sen!2sin!4v1783781236625!5m2!1sen!2sin"
+                                width="100%" height="220" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
                         </div>
                     </div>
 

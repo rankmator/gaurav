@@ -82,7 +82,7 @@ $cur_script = basename($_SERVER['SCRIPT_NAME']);
                 <li><a href="about.php" class="<?php echo ($cur_script === 'about.php') ? 'active' : ''; ?>">About
                         Doctor</a></li>
                 <li class="nav-item dropdown mega-dropdown">
-                    <a href="index.php#services"
+                    <a href="#"
                         class="dropdown-toggle <?php echo (in_array($cur_script, ['implants.php', 'smile-designing.php', 'rehabilitation.php', 'surgery.php'])) ? 'active' : ''; ?>">Services
                         <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                             stroke-width="2" stroke-linecap="round" stroke-linejoin="round"

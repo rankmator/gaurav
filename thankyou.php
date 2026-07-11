@@ -21,9 +21,9 @@
       "telephone": "+918079791010",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Sector 12",
+        "streetAddress": "Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market",
         "addressLocality": "New Delhi",
-        "postalCode": "110075",
+        "postalCode": "110014",
         "addressCountry": "IN"
       },
       "geo": {
@@ -93,11 +93,11 @@
                 </span>
 
                 <h1 class="page-title fade-in-up thankyou-heading">
-                    Thank You<?php echo !empty($patient_name) ? ', <span class="highlight">' . $patient_name . '</span>' : ''; ?>!
+                    Thank You<?php echo !empty($patient_name) ? ', <span class="italic-green">' . $patient_name . '</span>' : ''; ?>!
                 </h1>
 
                 <p class="page-subtitle fade-in-up thankyou-subheading">
-                    Your consultation inquiry has been securely transmitted to Dr. Gaurav Mathpal's specialized clinical coordination team in Sector 12, New Delhi.
+                    Your consultation inquiry has been securely transmitted to Dr. Gaurav Mathpal's specialized clinical coordination team at Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market, New Delhi, Delhi 110014.
                 </p>
 
                 <?php if (!empty($service_display)): ?>
@@ -114,7 +114,7 @@
             <div class="container">
                 <div class="section-header text-center fade-in ut-mb-3-5rem">
                     <span class="badge ut-mb12-inblock">Clear Communication</span>
-                    <h2 class="ut-style-87">What Happens <span class="highlight">Next?</span></h2>
+                    <h2 class="ut-style-87">What Happens <span class="italic-green">Next?</span></h2>
                     <p class="ut-style-33">We strive to provide a seamless, stress-free experience from your very first interaction.</p>
                 </div>
 
@@ -148,7 +148,7 @@
                         </div>
                         <h3 class="ut-style-81">Precision Consultation</h3>
                         <p class="ut-style-34">
-                            Visit our cutting-edge dental clinic in Sector 12, New Delhi for a comprehensive, 100% painless diagnostic assessment and tailored treatment plan.
+                            Visit our cutting-edge dental clinic at Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market, New Delhi, Delhi 110014 for a comprehensive, 100% painless diagnostic assessment and tailored treatment plan.
                         </p>
                     </div>
                 </div>
@@ -185,7 +185,7 @@
         <section class="section-padding bg-soft-teal ut-style-22">
             <div class="container">
                 <div class="section-header text-center fade-in ut-margin-bottom-3rem">
-                    <h2>Explore Our <span class="highlight">Clinical Excellence</span></h2>
+                    <h2>Explore Our <span class="italic-green">Clinical Excellence</span></h2>
                     <p class="ut-style-33">Learn more about Dr. Mathpal's research, specialized treatments, and clinical philosophy.</p>
                 </div>
 
@@ -230,7 +230,7 @@
                             </div>
                             <h3 class="ut-style-80">Clinic Location</h3>
                             <p class="ut-style-32">
-                                Conveniently situated in Sector 12, New Delhi. Get interactive driving directions and view our operating hours and patient amenities.
+                                Conveniently situated at Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market, New Delhi, Delhi 110014. Get interactive driving directions and view our operating hours and patient amenities.
                             </p>
                         </div>
                         <a class="ut-style-28" href="contact.php">

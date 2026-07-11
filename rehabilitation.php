@@ -5,7 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Full Mouth & Trauma Rehabilitation | Dr. Gaurav Mathpal New Delhi</title>
-    <meta name="description" content="Specialized Full Mouth & Trauma Dental Rehabilitation in New Delhi by Dr. Gaurav Mathpal. Advanced CBCT mapping, neuromuscular jaw alignment, and precision zirconia restorations.">
+    <meta name="description"
+        content="Specialized Full Mouth & Trauma Dental Rehabilitation in New Delhi by Dr. Gaurav Mathpal. Advanced CBCT mapping, neuromuscular jaw alignment, and precision zirconia restorations.">
 
     <?php include 'nav-links.php'; ?>
 
@@ -21,9 +22,9 @@
       "telephone": "+918079791010",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Sector 12",
+        "streetAddress": "Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market",
         "addressLocality": "New Delhi",
-        "postalCode": "110075",
+        "postalCode": "110014",
         "addressCountry": "IN"
       },
       "geo": {
@@ -82,7 +83,9 @@
                             Specialized Prosthetic & Neuromuscular Care with 3D Precision
                         </p>
                         <p class="hero-desc">
-                            Whether recovering from severe dental wear, bite collapse, chronic TMJ migraines, or maxillofacial trauma, our precision 3D CBCT guided rehabilitation restores natural chewing strength, facial harmony, and lifetime dental comfort.
+                            Whether recovering from severe dental wear, bite collapse, chronic TMJ migraines, or
+                            maxillofacial trauma, our precision 3D CBCT guided rehabilitation restores natural chewing
+                            strength, facial harmony, and lifetime dental comfort.
                         </p>
                         <div class="hero-actions">
                             <a href="#contact" class="btn btn-primary nav-btn hero-btn-primary">Book
@@ -92,11 +95,9 @@
                         </div>
                     </div>
                     <div class="about-hero-image-wrapper fade-in">
-                        <img src="img/692ec865d15415f676a9c438_crowns.png"
-                            alt="Full Mouth Rehabilitation Showcase">
+                        <img src="img/692ec865d15415f676a9c438_crowns.png" alt="Full Mouth Rehabilitation Showcase">
                         <div class="about-floating-badge ut-style-48">
-                            <div class="ut-style-132"
-                               >
+                            <div class="ut-style-132">
                                 <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                                     stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                     <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
@@ -134,12 +135,12 @@
         </section>
 
         <!-- Why Choose Rehabilitation - Interactive Split Showcase -->
-        <section id="why-rehab" class="section-padding ut-style-16"
-           >
+        <section id="why-rehab" class="section-padding ut-style-16">
             <div class="container">
                 <div class="section-header text-center fade-in">
-                    <h2>Why Choose <span class="highlight">Full Rehabilitation?</span></h2>
-                    <p>Rehabilitating an entire dental arch or collapsed bite requires advanced engineering, gnathology, and prosthodontic precision.</p>
+                    <h2>Why Choose <span class="italic-green">Full Rehabilitation?</span></h2>
+                    <p>Rehabilitating an entire dental arch or collapsed bite requires advanced engineering, gnathology,
+                        and prosthodontic precision.</p>
                 </div>
 
                 <div class="why-implants-grid-2x2 fade-in-up">
@@ -148,7 +149,8 @@
                         <div class="showcase-num-badge">01</div>
                         <div class="showcase-nav-content">
                             <h3>Complete Masticatory Restoration</h3>
-                            <p>Restore your full biting force without restrictions. Our monolithic zirconia frameworks allow you to enjoy crisp fruits and tough foods effortlessly.</p>
+                            <p>Restore your full biting force without restrictions. Our monolithic zirconia frameworks
+                                allow you to enjoy crisp fruits and tough foods effortlessly.</p>
                         </div>
                     </div>
 
@@ -157,7 +159,8 @@
                         <div class="showcase-num-badge">02</div>
                         <div class="showcase-nav-content">
                             <h3>Neuromuscular TMJ Alignment</h3>
-                            <p>Chronic migraines and jaw clicking often stem from an improper vertical bite. We utilize digital jaw tracking to establish a relaxed occlusal plane.</p>
+                            <p>Chronic migraines and jaw clicking often stem from an improper vertical bite. We utilize
+                                digital jaw tracking to establish a relaxed occlusal plane.</p>
                         </div>
                     </div>
 
@@ -166,7 +169,8 @@
                         <div class="showcase-num-badge">03</div>
                         <div class="showcase-nav-content">
                             <h3>Post-Trauma Reconstructive Care</h3>
-                            <p>For patients recovering from accident trauma or oncology resections, Dr. Mathpal designs precision prostheses to rebuild structural anatomy.</p>
+                            <p>For patients recovering from accident trauma or oncology resections, Dr. Mathpal designs
+                                precision prostheses to rebuild structural anatomy.</p>
                         </div>
                     </div>
 
@@ -175,7 +179,8 @@
                         <div class="showcase-num-badge">04</div>
                         <div class="showcase-nav-content">
                             <h3>Monolithic Zirconia Aesthetics</h3>
-                            <p>Functional rehabilitation should never compromise beauty. Our CAD/CAM milled zirconia replicates natural tooth translucency and gum topography.</p>
+                            <p>Functional rehabilitation should never compromise beauty. Our CAD/CAM milled zirconia
+                                replicates natural tooth translucency and gum topography.</p>
                         </div>
                     </div>
                 </div>
@@ -189,8 +194,11 @@
                     <!-- Top Left: Hero Card (Spans 2 Columns) -->
                     <div class="solutions-hero-card">
                         <span class="solutions-hero-pill">EXCELLENCE IN REHABILITATION</span>
-                        <h3>Our Specialised <span class="italic-green">Solutions</span></h3>
-                        <p class="solutions-hero-desc">We provide comprehensive, cutting-edge full mouth rehabilitation tailored to your jaw architecture and occlusal dynamics. Combining 3D neuromuscular tracking with high-strength monolithic zirconia, our reconstructive protocols deliver permanent stability and a flawless, painless smile.</p>
+                        <h3>Our Specialised <span class="italic-green">Services</span></h3>
+                        <p class="solutions-hero-desc">We provide comprehensive, cutting-edge full mouth rehabilitation
+                            tailored to your jaw architecture and occlusal dynamics. Combining 3D neuromuscular tracking
+                            with high-strength monolithic zirconia, our reconstructive protocols deliver permanent
+                            stability and a flawless, painless smile.</p>
                         <div class="solutions-hero-checks">
                             <div class="solutions-check-item">
                                 <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#00BA74"
@@ -216,12 +224,33 @@
                                 <img src="img/1.webp" alt="Full Mouth Rehabilitation">
                             </div>
                             <div class="solution-title-pill">Full Arch Reconstruction</div>
-                            <p class="solution-desc-text">Complete restoration for severe tooth loss or attrition wear combining fixed zirconia bridges and strategic titanium implants.</p>
+                            <p class="solution-desc-text">Complete restoration for severe tooth loss or attrition wear
+                                combining fixed zirconia bridges and strategic titanium implants.</p>
                         </div>
                         <div class="solution-actions-capsule">
-                            <a href="#appointment" class="capsule-btn capsule-btn-appt"><svg class="ut-mr4-vmid" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg> Appointment</a>
-                            <a href="#contact" class="capsule-btn capsule-btn-appt"><svg class="ut-mr4-vmid" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg> Appointment</a>
-                            <a href="tel:+918079791010" class="capsule-btn capsule-btn-call"><svg class="ut-mr4-vmid" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg> Call Us</a>
+                            <a href="#appointment" class="capsule-btn capsule-btn-appt"><svg class="ut-mr4-vmid"
+                                    width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                    <line x1="16" y1="2" x2="16" y2="6"></line>
+                                    <line x1="8" y1="2" x2="8" y2="6"></line>
+                                    <line x1="3" y1="10" x2="21" y2="10"></line>
+                                </svg> Appointment</a>
+                            <a href="#contact" class="capsule-btn capsule-btn-appt"><svg class="ut-mr4-vmid" width="14"
+                                    height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                    stroke-linecap="round" stroke-linejoin="round">
+                                    <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                    <line x1="16" y1="2" x2="16" y2="6"></line>
+                                    <line x1="8" y1="2" x2="8" y2="6"></line>
+                                    <line x1="3" y1="10" x2="21" y2="10"></line>
+                                </svg> Appointment</a>
+                            <a href="tel:+918079791010" class="capsule-btn capsule-btn-call"><svg class="ut-mr4-vmid"
+                                    width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path
+                                        d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
+                                    </path>
+                                </svg> Call Us</a>
                         </div>
                     </div>
 
@@ -232,11 +261,26 @@
                                 <img src="img/2.webp" alt="Severe Worn Dentition Care">
                             </div>
                             <div class="solution-title-pill">Severe Worn Dentition Care</div>
-                            <p class="solution-desc-text">Restoring teeth shortened by years of acid reflux, dietary erosion, or aggressive grinding using ultra-durable ceramic overlays and table-top restorations.</p>
+                            <p class="solution-desc-text">Restoring teeth shortened by years of acid reflux, dietary
+                                erosion, or aggressive grinding using ultra-durable ceramic overlays and table-top
+                                restorations.</p>
                         </div>
                         <div class="solution-actions-capsule">
-                            <a href="#contact" class="capsule-btn capsule-btn-appt"><svg class="ut-mr4-vmid" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg> Appointment</a>
-                            <a href="tel:+918079791010" class="capsule-btn capsule-btn-call"><svg class="ut-mr4-vmid" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg> Call Us</a>
+                            <a href="#contact" class="capsule-btn capsule-btn-appt"><svg class="ut-mr4-vmid" width="14"
+                                    height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                    stroke-linecap="round" stroke-linejoin="round">
+                                    <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                    <line x1="16" y1="2" x2="16" y2="6"></line>
+                                    <line x1="8" y1="2" x2="8" y2="6"></line>
+                                    <line x1="3" y1="10" x2="21" y2="10"></line>
+                                </svg> Appointment</a>
+                            <a href="tel:+918079791010" class="capsule-btn capsule-btn-call"><svg class="ut-mr4-vmid"
+                                    width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path
+                                        d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
+                                    </path>
+                                </svg> Call Us</a>
                         </div>
                     </div>
 
@@ -247,11 +291,26 @@
                                 <img src="img/3.webp" alt="Maxillofacial Prosthetics">
                             </div>
                             <div class="solution-title-pill">Maxillofacial Prosthetics</div>
-                            <p class="solution-desc-text">Custom-designed surgical obturators, palatal lifts, and reconstructive prostheses engineered specifically for oncology survivors and trauma patients.</p>
+                            <p class="solution-desc-text">Custom-designed surgical obturators, palatal lifts, and
+                                reconstructive prostheses engineered specifically for oncology survivors and trauma
+                                patients.</p>
                         </div>
                         <div class="solution-actions-capsule">
-                            <a href="#contact" class="capsule-btn capsule-btn-appt"><svg class="ut-mr4-vmid" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg> Appointment</a>
-                            <a href="tel:+918079791010" class="capsule-btn capsule-btn-call"><svg class="ut-mr4-vmid" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg> Call Us</a>
+                            <a href="#contact" class="capsule-btn capsule-btn-appt"><svg class="ut-mr4-vmid" width="14"
+                                    height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                    stroke-linecap="round" stroke-linejoin="round">
+                                    <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                    <line x1="16" y1="2" x2="16" y2="6"></line>
+                                    <line x1="8" y1="2" x2="8" y2="6"></line>
+                                    <line x1="3" y1="10" x2="21" y2="10"></line>
+                                </svg> Appointment</a>
+                            <a href="tel:+918079791010" class="capsule-btn capsule-btn-call"><svg class="ut-mr4-vmid"
+                                    width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path
+                                        d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
+                                    </path>
+                                </svg> Call Us</a>
                         </div>
                     </div>
 
@@ -262,10 +321,19 @@
                                 <img src="img/5.webp" alt="TMJ & Occlusal Therapy">
                             </div>
                             <div class="solution-title-pill">TMJ & Occlusal Therapy</div>
-                            <p class="solution-desc-text">Advanced neuromuscular splint therapy and digital bite equilibration to resolve chronic headaches, jaw clicking, and masticatory muscle tension.</p>
+                            <p class="solution-desc-text">Advanced neuromuscular splint therapy and digital bite
+                                equilibration to resolve chronic headaches, jaw clicking, and masticatory muscle
+                                tension.</p>
                         </div>
                         <div class="solution-actions-capsule">
-                            <a href="#contact" class="capsule-btn capsule-btn-appt"><svg class="ut-mr4-vmid" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg> Appointment</a>
+                            <a href="#contact" class="capsule-btn capsule-btn-appt"><svg class="ut-mr4-vmid" width="14"
+                                    height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                                    stroke-linecap="round" stroke-linejoin="round">
+                                    <rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect>
+                                    <line x1="16" y1="2" x2="16" y2="6"></line>
+                                    <line x1="8" y1="2" x2="8" y2="6"></line>
+                                    <line x1="3" y1="10" x2="21" y2="10"></line>
+                                </svg> Appointment</a>
                         </div>
                     </div>
                 </div>
@@ -277,28 +345,47 @@
             <div class="container">
                 <div class="section-header text-center fade-in">
                     <span class="badge ut-mb12-inblock">CLINICAL SUPERIORITY & E-E-A-T</span>
-                    <h2>Evidence-Based <span class="highlight">Rehabilitation</span></h2>
-                    <p>Why 3D Gnathological mapping and monolithic zirconia frameworks make our full mouth reconstructive protocols the permanent gold standard.</p>
+                    <h2>Evidence-Based <span class="italic-green">Rehabilitation</span></h2>
+                    <p>Why 3D Gnathological mapping and monolithic zirconia frameworks make our full mouth
+                        reconstructive protocols the permanent gold standard.</p>
                 </div>
 
                 <div class="eeat-deep-grid fade-in-up ut-mt-3rem">
                     <div class="eeat-box">
-                        <h4 class="ut-flex-align-gap8"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#00BA74" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg> 3D Gnathological Mapping</h4>
-                        <p>We perform full skull 3D CBCT scanning, digital facebow registration, and TMJ joint tracking to record your exact neuromuscular jaw trajectory before any physical intervention.</p>
+                        <h4 class="ut-flex-align-gap8"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+                                stroke="#00BA74" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon>
+                            </svg> 3D Gnathological Mapping</h4>
+                        <p>We perform full skull 3D CBCT scanning, digital facebow registration, and TMJ joint tracking
+                            to record your exact neuromuscular jaw trajectory before any physical intervention.</p>
                     </div>
                     <div class="eeat-box">
-                        <h4 class="ut-flex-align-gap8"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#00BA74" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><circle cx="12" cy="12" r="6"></circle><circle cx="12" cy="12" r="2"></circle></svg> Diagnostic 3D Mock-Up</h4>
-                        <p>Our master ceramists virtually design your new vertical dimension and bite morphology. You test drive a physical resin prototype in your mouth prior to tooth preparation.</p>
+                        <h4 class="ut-flex-align-gap8"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+                                stroke="#00BA74" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                <circle cx="12" cy="12" r="10"></circle>
+                                <circle cx="12" cy="12" r="6"></circle>
+                                <circle cx="12" cy="12" r="2"></circle>
+                            </svg> Diagnostic 3D Mock-Up</h4>
+                        <p>Our master ceramists virtually design your new vertical dimension and bite morphology. You
+                            test drive a physical resin prototype in your mouth prior to tooth preparation.</p>
                     </div>
                     <div class="eeat-box">
-                        <h4 class="ut-flex-align-gap8"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#00BA74" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path><line x1="3" y1="6" x2="21" y2="6"></line><path d="M16 10a4 4 0 0 1-8 0"></path></svg> Monolithic Zirconia & Titanium</h4>
-                        <p>Our permanent prostheses are custom-milled in digital CAD/CAM laboratories from multi-layered monolithic zirconia and titanium, offering superior flexural strength and stain resistance.</p>
+                        <h4 class="ut-flex-align-gap8"><svg width="20" height="20" viewBox="0 0 24 24" fill="none"
+                                stroke="#00BA74" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"></path>
+                                <line x1="3" y1="6" x2="21" y2="6"></line>
+                                <path d="M16 10a4 4 0 0 1-8 0"></path>
+                            </svg> Monolithic Zirconia & Titanium</h4>
+                        <p>Our permanent prostheses are custom-milled in digital CAD/CAM laboratories from multi-layered
+                            monolithic zirconia and titanium, offering superior flexural strength and stain resistance.
+                        </p>
                     </div>
                 </div>
 
                 <div class="section-header text-center fade-in ut-mt-4rem">
                     <h3>Comparative Clinical Analysis</h3>
-                    <p>Understanding how our guided neuromuscular rehabilitation compares to conventional unmapped dentistry over a lifetime.</p>
+                    <p>Understanding how our guided neuromuscular rehabilitation compares to conventional unmapped
+                        dentistry over a lifetime.</p>
                 </div>
 
                 <div class="comparison-table-wrapper fade-in-up">
@@ -306,7 +393,13 @@
                         <thead>
                             <tr>
                                 <th>Clinical Parameter</th>
-                                <th class="highlight-col"><svg class="ut-mr4-vmid" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg> Dr. Mathpal's Guided Rehab</th>
+                                <th class="highlight-col"><svg class="ut-mr4-vmid" width="16" height="16"
+                                        viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                                        stroke-linecap="round" stroke-linejoin="round">
+                                        <polygon
+                                            points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                        </polygon>
+                                    </svg> Dr. Mathpal's Guided Rehab</th>
                                 <th>Conventional Unmapped Dentistry</th>
                             </tr>
                         </thead>
@@ -346,8 +439,9 @@
         <section id="protocol" class="section-padding ut-bg-white">
             <div class="container">
                 <div class="section-header text-center fade-in">
-                    <h2>Our Painless 4-Step <span class="highlight">Protocol</span></h2>
-                    <p>Experience how digital planning and ergonomic precision transform full mouth rehabilitation into a relaxing journey.</p>
+                    <h2>Our Painless 4-Step <span class="italic-green">Protocol</span></h2>
+                    <p>Experience how digital planning and ergonomic precision transform full mouth rehabilitation into
+                        a relaxing journey.</p>
                 </div>
 
                 <div class="why-list fade-in-up ut-mt-3rem">
@@ -355,7 +449,8 @@
                         <div class="why-number">01</div>
                         <div class="why-text">
                             <h3>3D Gnathological Mapping</h3>
-                            <p>We perform full skull 3D CBCT scanning, digital facebow registration, and TMJ joint analysis to record your exact jaw trajectory.</p>
+                            <p>We perform full skull 3D CBCT scanning, digital facebow registration, and TMJ joint
+                                analysis to record your exact jaw trajectory.</p>
                         </div>
                     </div>
 
@@ -363,7 +458,8 @@
                         <div class="why-number">02</div>
                         <div class="why-text">
                             <h3>Diagnostic 3D Wax-Up</h3>
-                            <p>Our master ceramists virtually design your new bite and tooth morphology. You test drive a physical resin mockup in your mouth prior to any preparation.</p>
+                            <p>Our master ceramists virtually design your new bite and tooth morphology. You test drive
+                                a physical resin mockup in your mouth prior to any preparation.</p>
                         </div>
                     </div>
 
@@ -371,7 +467,8 @@
                         <div class="why-number">03</div>
                         <div class="why-text">
                             <h3>Laser & Piezosurgery Stage</h3>
-                            <p>Under 100% painless local anesthesia, eroded teeth are prepared under high magnification and any required titanium implants are precision-placed.</p>
+                            <p>Under 100% painless local anesthesia, eroded teeth are prepared under high magnification
+                                and any required titanium implants are precision-placed.</p>
                         </div>
                     </div>
 
@@ -379,7 +476,8 @@
                         <div class="why-number">04</div>
                         <div class="why-text">
                             <h3>Permanent Delivery</h3>
-                            <p>Monolithic zirconia frameworks are permanently seated and verified with computerized occlusal sensors to guarantee zero premature bite contacts.</p>
+                            <p>Monolithic zirconia frameworks are permanently seated and verified with computerized
+                                occlusal sensors to guarantee zero premature bite contacts.</p>
                         </div>
                     </div>
                 </div>
@@ -391,32 +489,36 @@
             <div class="container">
                 <div class="section-header text-center fade-in">
                     <span class="badge ut-mb12-inblock">Clinical Case Studies</span>
-                    <h2>Reconstruction Transformations <span class="highlight">(Before & After)</span></h2>
-                    <p>Real clinical documentation of full mouth rehabilitation and functional bite restoration achieved at our center.</p>
+                    <h2>Reconstruction Transformations <span class="italic-green">(Before & After)</span></h2>
+                    <p>Real clinical documentation of full mouth rehabilitation and functional bite restoration achieved
+                        at our center.</p>
                 </div>
                 <div class="ba-grid ut-mt-3rem">
                     <div class="ba-card fade-in-up">
-                        <img class="ut-img-cover-300" src="img/692ec865d15415f676a9c438_crowns.png" alt="Full Mouth Bite Reconstruction Case"
-                           >
+                        <img class="ut-img-cover-300" src="img/692ec865d15415f676a9c438_crowns.png"
+                            alt="Full Mouth Bite Reconstruction Case">
                         <div class="ut-card-pad-topborder">
                             <h4 class="ut-title-dark-sm">Full Mouth Bite Reconstruction</h4>
-                            <p class="ut-subtext-muted-0">Severe attrition and collapsed vertical height restored with 28 custom monolithic zirconia crowns and TMJ stabilization.</p>
+                            <p class="ut-subtext-muted-0">Severe attrition and collapsed vertical height restored with
+                                28 custom monolithic zirconia crowns and TMJ stabilization.</p>
                         </div>
                     </div>
                     <div class="ba-card fade-in-up ut-delay-1">
-                        <img class="ut-img-cover-300" src="img/692ec865453c7be79f9e646e_implants.png" alt="Severe Acid Erosion Restoration Case"
-                           >
+                        <img class="ut-img-cover-300" src="img/692ec865453c7be79f9e646e_implants.png"
+                            alt="Severe Acid Erosion Restoration Case">
                         <div class="ut-card-pad-topborder">
                             <h4 class="ut-title-dark-sm">Full Arch Table-Top Ceramics</h4>
-                            <p class="ut-subtext-muted-0">Chronic acid erosion restored with minimally invasive E.max ceramic overlays without root canals or enamel loss.</p>
+                            <p class="ut-subtext-muted-0">Chronic acid erosion restored with minimally invasive E.max
+                                ceramic overlays without root canals or enamel loss.</p>
                         </div>
                     </div>
                     <div class="ba-card fade-in-up ut-delay-2">
-                        <img class="ut-img-cover-300" src="img/692ec86508118395a85753f9_whitening (1).png" alt="Post-Accident Trauma Reconstruction Case"
-                           >
+                        <img class="ut-img-cover-300" src="img/692ec86508118395a85753f9_whitening (1).png"
+                            alt="Post-Accident Trauma Reconstruction Case">
                         <div class="ut-card-pad-topborder">
                             <h4 class="ut-title-dark-sm">Implant & Bone Reconstruction</h4>
-                            <p class="ut-subtext-muted-0">Severe anterior jawbone trauma reconstructed with 3D guided bone grafting and multi-unit customized implant prosthetics.</p>
+                            <p class="ut-subtext-muted-0">Severe anterior jawbone trauma reconstructed with 3D guided
+                                bone grafting and multi-unit customized implant prosthetics.</p>
                         </div>
                     </div>
                 </div>
@@ -434,18 +536,22 @@
                     <div class="doctor-profile-content-col">
                         <span class="badge ut-mb15-inblock">Lead Prosthodontist & Reconstructive Specialist</span>
                         <h2 class="profile-doc-name">Dr. Gaurav Mathpal</h2>
-                        <h3 class="profile-doc-creds">B.D.S., M.D.S. (Prosthodontics), PhD Scholar • CEP (IIT Delhi)</h3>
+                        <h3 class="profile-doc-creds">B.D.S., M.D.S. (Prosthodontics), PhD Scholar • CEP (IIT Delhi)
+                        </h3>
                         <div class="profile-divider"></div>
 
                         <div class="profile-quote-box">
                             <span class="profile-quote-icon">“</span>
-                            <p class="profile-quote-text">Full mouth rehabilitation requires meticulous gnathological planning. By merging 3D jaw tracking with monolithic zirconia CAD/CAM milling, we ensure permanent bite stability that feels natural and lasts a lifetime.</p>
+                            <p class="profile-quote-text">Full mouth rehabilitation requires meticulous gnathological
+                                planning. By merging 3D jaw tracking with monolithic zirconia CAD/CAM milling, we ensure
+                                permanent bite stability that feels natural and lasts a lifetime.</p>
                         </div>
 
                         <p class="profile-bio-text">
                             With over <strong>15+ years of clinical prosthodontic excellence</strong> and more than
                             <strong>1,500+ full mouth reconstructions delivered</strong>, Dr. Mathpal is a pioneer in
-                            neuromuscular gnathology and complex bite rehabilitation in New Delhi. Trained in advanced research
+                            neuromuscular gnathology and complex bite rehabilitation in New Delhi. Trained in advanced
+                            research
                             protocols at IIT Delhi, he maintains strict hospital-grade precision in every treatment.
                         </p>
 
@@ -470,7 +576,11 @@
                         </div>
 
                         <div class="profile-highlight-badge ut-style-50">
-                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#00BA74" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path><polyline points="22 4 12 14.01 9 11.01"></polyline></svg>
+                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#00BA74"
+                                stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"></path>
+                                <polyline points="22 4 12 14.01 9 11.01"></polyline>
+                            </svg>
                             <span>Certified Gnathologist & 3D Full Mouth Rehabilitation Specialist</span>
                         </div>
 
@@ -487,14 +597,18 @@
             <div class="container ut-pos-rel-z2">
                 <div class="section-header text-center fade-in">
                     <span class="badge ut-mb12-inblock">Patient Reviews</span>
-                    <h2>Rebuild Stories. <span class="highlight">Verified Smiles.</span></h2>
-                    <p>Read genuine experiences from patients who regained full chewing function and pain-free living.</p>
+                    <h2>Rebuild Stories. <span class="italic-green">Verified Smiles.</span></h2>
+                    <p>Read genuine experiences from patients who regained full chewing function and pain-free living.
+                    </p>
                 </div>
 
                 <div class="testimonials-carousel-wrapper fade-in-up ut-mt-3rem">
                     <!-- Navigation Arrows -->
                     <button class="carousel-control prev-btn" aria-label="Previous review">
-                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
+                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <polyline points="15 18 9 12 15 6"></polyline>
+                        </svg>
                     </button>
 
                     <div class="carousel-viewport">
@@ -503,22 +617,53 @@
                             <div class="review-card carousel-slide">
                                 <div class="review-top">
                                     <div class="review-stars ut-style-55">
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
                                     </div>
                                     <div class="google-badge">
                                         <svg viewBox="0 0 24 24" width="20" height="20">
-                                            <path fill="#4285F4" d="M23.5 12.3c0-.8-.1-1.7-.2-2.3H12v4.6h6.5c-.3 1.5-1.1 2.8-2.4 3.7l3.7 2.9c2.2-2 3.7-5 3.7-8.9z" />
-                                            <path fill="#34A853" d="M12 23c3.2 0 6-1.1 8-3l-3.7-2.9c-1.1.7-2.5 1.2-4.3 1.2-3.1 0-5.8-2.3-6.7-5.2L1.6 15.9C3.5 19.7 7.4 23 12 23z" />
-                                            <path fill="#FBBC05" d="M5.3 14.8C5.1 14 5 13.1 5 12s.1-2 .3-2.8L1.6 6.4C.6 8.4 0 10.1 0 12s.6 3.6 1.6 5.6l3.7-2.8z" />
-                                            <path fill="#EA4335" d="M12 5c1.6 0 3 .6 4.1 1.7l3.1-3.1C17.3 1.8 14.8 1 12 1 7.4 1 3.5 3.6 1.6 7.4l3.7 2.8C6.2 7.3 8.9 5 12 5z" />
+                                            <path fill="#4285F4"
+                                                d="M23.5 12.3c0-.8-.1-1.7-.2-2.3H12v4.6h6.5c-.3 1.5-1.1 2.8-2.4 3.7l3.7 2.9c2.2-2 3.7-5 3.7-8.9z" />
+                                            <path fill="#34A853"
+                                                d="M12 23c3.2 0 6-1.1 8-3l-3.7-2.9c-1.1.7-2.5 1.2-4.3 1.2-3.1 0-5.8-2.3-6.7-5.2L1.6 15.9C3.5 19.7 7.4 23 12 23z" />
+                                            <path fill="#FBBC05"
+                                                d="M5.3 14.8C5.1 14 5 13.1 5 12s.1-2 .3-2.8L1.6 6.4C.6 8.4 0 10.1 0 12s.6 3.6 1.6 5.6l3.7-2.8z" />
+                                            <path fill="#EA4335"
+                                                d="M12 5c1.6 0 3 .6 4.1 1.7l3.1-3.1C17.3 1.8 14.8 1 12 1 7.4 1 3.5 3.6 1.6 7.4l3.7 2.8C6.2 7.3 8.9 5 12 5z" />
                                         </svg>
                                     </div>
                                 </div>
-                                <p class="review-text">"For 8 years I suffered from severe jaw clicking and inability to chew hard bread. Dr. Mathpal reconstructed my entire bite with zirconia crowns. My jaw feels completely natural now!"</p>
+                                <p class="review-text">"For 8 years I suffered from severe jaw clicking and inability to
+                                    chew hard bread. Dr. Mathpal reconstructed my entire bite with zirconia crowns. My
+                                    jaw feels completely natural now!"</p>
                                 <div class="review-author">
                                     <div class="author-avatar emerald-avatar-1">A</div>
                                     <div class="author-details">
@@ -532,22 +677,53 @@
                             <div class="review-card carousel-slide">
                                 <div class="review-top">
                                     <div class="review-stars ut-style-55">
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
                                     </div>
                                     <div class="google-badge">
                                         <svg viewBox="0 0 24 24" width="20" height="20">
-                                            <path fill="#4285F4" d="M23.5 12.3c0-.8-.1-1.7-.2-2.3H12v4.6h6.5c-.3 1.5-1.1 2.8-2.4 3.7l3.7 2.9c2.2-2 3.7-5 3.7-8.9z" />
-                                            <path fill="#34A853" d="M12 23c3.2 0 6-1.1 8-3l-3.7-2.9c-1.1.7-2.5 1.2-4.3 1.2-3.1 0-5.8-2.3-6.7-5.2L1.6 15.9C3.5 19.7 7.4 23 12 23z" />
-                                            <path fill="#FBBC05" d="M5.3 14.8C5.1 14 5 13.1 5 12s.1-2 .3-2.8L1.6 6.4C.6 8.4 0 10.1 0 12s.6 3.6 1.6 5.6l3.7-2.8z" />
-                                            <path fill="#EA4335" d="M12 5c1.6 0 3 .6 4.1 1.7l3.1-3.1C17.3 1.8 14.8 1 12 1 7.4 1 3.5 3.6 1.6 7.4l3.7 2.8C6.2 7.3 8.9 5 12 5z" />
+                                            <path fill="#4285F4"
+                                                d="M23.5 12.3c0-.8-.1-1.7-.2-2.3H12v4.6h6.5c-.3 1.5-1.1 2.8-2.4 3.7l3.7 2.9c2.2-2 3.7-5 3.7-8.9z" />
+                                            <path fill="#34A853"
+                                                d="M12 23c3.2 0 6-1.1 8-3l-3.7-2.9c-1.1.7-2.5 1.2-4.3 1.2-3.1 0-5.8-2.3-6.7-5.2L1.6 15.9C3.5 19.7 7.4 23 12 23z" />
+                                            <path fill="#FBBC05"
+                                                d="M5.3 14.8C5.1 14 5 13.1 5 12s.1-2 .3-2.8L1.6 6.4C.6 8.4 0 10.1 0 12s.6 3.6 1.6 5.6l3.7-2.8z" />
+                                            <path fill="#EA4335"
+                                                d="M12 5c1.6 0 3 .6 4.1 1.7l3.1-3.1C17.3 1.8 14.8 1 12 1 7.4 1 3.5 3.6 1.6 7.4l3.7 2.8C6.2 7.3 8.9 5 12 5z" />
                                         </svg>
                                     </div>
                                 </div>
-                                <p class="review-text">"Severe acid erosion had ruined my teeth. Dr. Mathpal used digital bite mapping to restore my entire mouth with table-top ceramic overlays. The treatment was 100% painless!"</p>
+                                <p class="review-text">"Severe acid erosion had ruined my teeth. Dr. Mathpal used
+                                    digital bite mapping to restore my entire mouth with table-top ceramic overlays. The
+                                    treatment was 100% painless!"</p>
                                 <div class="review-author">
                                     <div class="author-avatar emerald-avatar-2">S</div>
                                     <div class="author-details">
@@ -561,22 +737,53 @@
                             <div class="review-card carousel-slide">
                                 <div class="review-top">
                                     <div class="review-stars ut-style-55">
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
                                     </div>
                                     <div class="google-badge">
                                         <svg viewBox="0 0 24 24" width="20" height="20">
-                                            <path fill="#4285F4" d="M23.5 12.3c0-.8-.1-1.7-.2-2.3H12v4.6h6.5c-.3 1.5-1.1 2.8-2.4 3.7l3.7 2.9c2.2-2 3.7-5 3.7-8.9z" />
-                                            <path fill="#34A853" d="M12 23c3.2 0 6-1.1 8-3l-3.7-2.9c-1.1.7-2.5 1.2-4.3 1.2-3.1 0-5.8-2.3-6.7-5.2L1.6 15.9C3.5 19.7 7.4 23 12 23z" />
-                                            <path fill="#FBBC05" d="M5.3 14.8C5.1 14 5 13.1 5 12s.1-2 .3-2.8L1.6 6.4C.6 8.4 0 10.1 0 12s.6 3.6 1.6 5.6l3.7-2.8z" />
-                                            <path fill="#EA4335" d="M12 5c1.6 0 3 .6 4.1 1.7l3.1-3.1C17.3 1.8 14.8 1 12 1 7.4 1 3.5 3.6 1.6 7.4l3.7 2.8C6.2 7.3 8.9 5 12 5z" />
+                                            <path fill="#4285F4"
+                                                d="M23.5 12.3c0-.8-.1-1.7-.2-2.3H12v4.6h6.5c-.3 1.5-1.1 2.8-2.4 3.7l3.7 2.9c2.2-2 3.7-5 3.7-8.9z" />
+                                            <path fill="#34A853"
+                                                d="M12 23c3.2 0 6-1.1 8-3l-3.7-2.9c-1.1.7-2.5 1.2-4.3 1.2-3.1 0-5.8-2.3-6.7-5.2L1.6 15.9C3.5 19.7 7.4 23 12 23z" />
+                                            <path fill="#FBBC05"
+                                                d="M5.3 14.8C5.1 14 5 13.1 5 12s.1-2 .3-2.8L1.6 6.4C.6 8.4 0 10.1 0 12s.6 3.6 1.6 5.6l3.7-2.8z" />
+                                            <path fill="#EA4335"
+                                                d="M12 5c1.6 0 3 .6 4.1 1.7l3.1-3.1C17.3 1.8 14.8 1 12 1 7.4 1 3.5 3.6 1.6 7.4l3.7 2.8C6.2 7.3 8.9 5 12 5z" />
                                         </svg>
                                     </div>
                                 </div>
-                                <p class="review-text">"As a surgeon, I scrutinized Dr. Mathpal's gnathological protocols following my road accident trauma. His precision bone grafting and prosthetic work exceeded all clinical expectations."</p>
+                                <p class="review-text">"As a surgeon, I scrutinized Dr. Mathpal's gnathological
+                                    protocols following my road accident trauma. His precision bone grafting and
+                                    prosthetic work exceeded all clinical expectations."</p>
                                 <div class="review-author">
                                     <div class="author-avatar emerald-avatar-3">V</div>
                                     <div class="author-details">
@@ -590,22 +797,53 @@
                             <div class="review-card carousel-slide">
                                 <div class="review-top">
                                     <div class="review-stars ut-style-55">
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
+                                        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"
+                                            stroke="currentColor" stroke-width="1">
+                                            <polygon
+                                                points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                                            </polygon>
+                                        </svg>
                                     </div>
                                     <div class="google-badge">
                                         <svg viewBox="0 0 24 24" width="20" height="20">
-                                            <path fill="#4285F4" d="M23.5 12.3c0-.8-.1-1.7-.2-2.3H12v4.6h6.5c-.3 1.5-1.1 2.8-2.4 3.7l3.7 2.9c2.2-2 3.7-5 3.7-8.9z" />
-                                            <path fill="#34A853" d="M12 23c3.2 0 6-1.1 8-3l-3.7-2.9c-1.1.7-2.5 1.2-4.3 1.2-3.1 0-5.8-2.3-6.7-5.2L1.6 15.9C3.5 19.7 7.4 23 12 23z" />
-                                            <path fill="#FBBC05" d="M5.3 14.8C5.1 14 5 13.1 5 12s.1-2 .3-2.8L1.6 6.4C.6 8.4 0 10.1 0 12s.6 3.6 1.6 5.6l3.7-2.8z" />
-                                            <path fill="#EA4335" d="M12 5c1.6 0 3 .6 4.1 1.7l3.1-3.1C17.3 1.8 14.8 1 12 1 7.4 1 3.5 3.6 1.6 7.4l3.7 2.8C6.2 7.3 8.9 5 12 5z" />
+                                            <path fill="#4285F4"
+                                                d="M23.5 12.3c0-.8-.1-1.7-.2-2.3H12v4.6h6.5c-.3 1.5-1.1 2.8-2.4 3.7l3.7 2.9c2.2-2 3.7-5 3.7-8.9z" />
+                                            <path fill="#34A853"
+                                                d="M12 23c3.2 0 6-1.1 8-3l-3.7-2.9c-1.1.7-2.5 1.2-4.3 1.2-3.1 0-5.8-2.3-6.7-5.2L1.6 15.9C3.5 19.7 7.4 23 12 23z" />
+                                            <path fill="#FBBC05"
+                                                d="M5.3 14.8C5.1 14 5 13.1 5 12s.1-2 .3-2.8L1.6 6.4C.6 8.4 0 10.1 0 12s.6 3.6 1.6 5.6l3.7-2.8z" />
+                                            <path fill="#EA4335"
+                                                d="M12 5c1.6 0 3 .6 4.1 1.7l3.1-3.1C17.3 1.8 14.8 1 12 1 7.4 1 3.5 3.6 1.6 7.4l3.7 2.8C6.2 7.3 8.9 5 12 5z" />
                                         </svg>
                                     </div>
                                 </div>
-                                <p class="review-text">"I received fixed All-on-6 implant bridges after losing my teeth to gum disease. The attention to bite alignment gave me back my youth and ability to eat steak!"</p>
+                                <p class="review-text">"I received fixed All-on-6 implant bridges after losing my teeth
+                                    to gum disease. The attention to bite alignment gave me back my youth and ability to
+                                    eat steak!"</p>
                                 <div class="review-author">
                                     <div class="author-avatar emerald-avatar-1">R</div>
                                     <div class="author-details">
@@ -618,7 +856,10 @@
                     </div>
 
                     <button class="carousel-control next-btn" aria-label="Next review">
-                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>
+                        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                            stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                            <polyline points="9 18 15 12 9 6"></polyline>
+                        </svg>
                     </button>
 
                     <!-- Dot Indicators -->
@@ -632,44 +873,58 @@
             <div class="container">
                 <div class="section-header text-center fade-in">
                     <span class="badge ut-mb12-inblock">Gnathological Insights</span>
-                    <h2>Frequently Asked Questions on <br><span class="highlight">Full Mouth Rehabilitation</span></h2>
+                    <h2>Frequently Asked Questions on <br><span class="italic-green">Full Mouth Rehabilitation</span>
+                    </h2>
                     <p>Everything you need to know about bite restoration, TMJ relief, and reconstructive timelines.</p>
                 </div>
 
                 <div class="ut-style-111">
-                    
+
                     <div class="faq-item glass-card fade-in-up ut-style-94">
                         <h4 class="ut-style-77">What is Full Mouth Rehabilitation and who needs it?</h4>
                         <p class="ut-style-35">
-                            Full Mouth Rehabilitation is a highly individualized restorative procedure designed for patients suffering from severely worn teeth, collapsed bite vertical dimensions, chronic TMJ jaw pain, or extensive dental trauma. It restores harmonious chewing function, speech stability, and natural aesthetics across the entire mouth.
+                            Full Mouth Rehabilitation is a highly individualized restorative procedure designed for
+                            patients suffering from severely worn teeth, collapsed bite vertical dimensions, chronic TMJ
+                            jaw pain, or extensive dental trauma. It restores harmonious chewing function, speech
+                            stability, and natural aesthetics across the entire mouth.
                         </p>
                     </div>
 
                     <div class="faq-item glass-card fade-in-up ut-style-94">
                         <h4 class="ut-style-77">How does neuromuscular jaw alignment relieve chronic headaches?</h4>
                         <p class="ut-style-35">
-                            When teeth do not meet correctly due to erosion or tooth loss, jaw muscles undergo chronic spasm and tension, frequently causing migraines, neck pain, and TMJ clicking. By establishing an anatomically balanced bite plane using 3D occlusal mapping, muscle strain is permanently eliminated.
+                            When teeth do not meet correctly due to erosion or tooth loss, jaw muscles undergo chronic
+                            spasm and tension, frequently causing migraines, neck pain, and TMJ clicking. By
+                            establishing an anatomically balanced bite plane using 3D occlusal mapping, muscle strain is
+                            permanently eliminated.
                         </p>
                     </div>
 
                     <div class="faq-item glass-card fade-in-up ut-style-94">
                         <h4 class="ut-style-77">Is the full mouth rehabilitation procedure painful?</h4>
                         <p class="ut-style-35">
-                            No. Dr. Gaurav Mathpal employs a strict 100% Zero-Pain Protocol utilizing advanced computerized local anesthesia and minimally invasive laser tooth preparation, ensuring absolute patient comfort throughout every phase.
+                            No. Dr. Gaurav Mathpal employs a strict 100% Zero-Pain Protocol utilizing advanced
+                            computerized local anesthesia and minimally invasive laser tooth preparation, ensuring
+                            absolute patient comfort throughout every phase.
                         </p>
                     </div>
 
                     <div class="faq-item glass-card fade-in-up ut-style-94">
                         <h4 class="ut-style-77">How long do full mouth zirconia restorations last?</h4>
                         <p class="ut-style-35">
-                            When planned with precise computerized jaw tracking and crafted from monolithic medical-grade Zirconia, full mouth rehabilitations offer exceptional structural strength and can last over 15 to 20 years with standard oral hygiene and regular evaluations.
+                            When planned with precise computerized jaw tracking and crafted from monolithic
+                            medical-grade Zirconia, full mouth rehabilitations offer exceptional structural strength and
+                            can last over 15 to 20 years with standard oral hygiene and regular evaluations.
                         </p>
                     </div>
 
                     <div class="faq-item glass-card fade-in-up ut-style-94">
-                        <h4 class="ut-style-77">Can dental rehabilitation assist post-oncology or accident trauma patients?</h4>
+                        <h4 class="ut-style-77">Can dental rehabilitation assist post-oncology or accident trauma
+                            patients?</h4>
                         <p class="ut-style-35">
-                            Yes. Dr. Mathpal specializes in complex maxillofacial prosthetics and post-trauma reconstructive care, restoring both facial structure and functional chewing capability for patients recovering from surgical or accidental injuries.
+                            Yes. Dr. Mathpal specializes in complex maxillofacial prosthetics and post-trauma
+                            reconstructive care, restoring both facial structure and functional chewing capability for
+                            patients recovering from surgical or accidental injuries.
                         </p>
                     </div>
 
@@ -682,7 +937,7 @@
             <div class="container contact-container">
                 <div class="section-header text-center fade-in ut-mb-3-5rem">
                     <span class="badge ut-mb12-inblock">Get In Touch</span>
-                    <h2>Schedule Your <span class="highlight">Rehabilitation Assessment</span></h2>
+                    <h2>Schedule Your <span class="italic-green">Rehabilitation Assessment</span></h2>
                     <p>Request a 3D digital CBCT evaluation and customized treatment plan with Dr. Gaurav Mathpal.</p>
                 </div>
 
@@ -699,7 +954,8 @@
                             </div>
                             <div class="info-text">
                                 <h4>Clinic Address</h4>
-                                <p>Dr. Gaurav Mathpal Dental Clinic<br>Sector 12, New Delhi, Delhi 110075</p>
+                                <p>Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market, New Delhi,
+                                    Delhi 110014</p>
                             </div>
                         </div>
                         <div class="info-item">
@@ -747,17 +1003,14 @@
 
                         <div class="map-container ut-margin-top-2-5rem">
                             <iframe class="ut-style-23"
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112000.00000000000!2d77.2090!3d28.6139!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjjCsDM2JzUwLjAiTiA3N8KwMTInMzIuNCJF!5e0!3m2!1sen!2sin!4v1610000000000!5m2!1sen!2sin"
-                                width="100%" height="220"
-                               
-                                allowfullscreen="" loading="lazy"></iframe>
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.610471133003!2d77.2416708!3d28.580612499999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce382000acbb1%3A0x66069007dd0c4f65!2sPanacea%20Clinic%20-%20Dr.%20Gaurav%20Mathpal%2C%20Prosthodontist%20and%20Implantologist%2C%20New%20Delhi!5e1!3m2!1sen!2sin!4v1783781236625!5m2!1sen!2sin"
+                                width="100%" height="220" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
                         </div>
                     </div>
 
                     <!-- Lead Generation Form -->
                     <div class="contact-form-container contact-card fade-in-up ut-delay-1">
-                        <form id="contact-form" class="contact-form ut-style-53" action="#" method="POST"
-                           >
+                        <form id="contact-form" class="contact-form ut-style-53" action="#" method="POST">
                             <h3 class="ut-style-49">
                                 <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="var(--clr-primary)"
                                     stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -776,7 +1029,8 @@
                             <div class="form-group">
                                 <label for="service">Select Reconstructive Need</label>
                                 <select id="service" name="service" required>
-                                    <option value="Full Mouth Reconstruction" selected>Complete Full Mouth Reconstruction</option>
+                                    <option value="Full Mouth Reconstruction" selected>Complete Full Mouth
+                                        Reconstruction</option>
                                     <option value="TMJ / Bite Alignment">TMJ Jaw Pain & Bite Alignment</option>
                                     <option value="Severe Worn Teeth">Severe Worn / Ground-Down Teeth</option>
                                     <option value="Post-Trauma Prosthetics">Post-Trauma / Oncology Prosthetics</option>
@@ -785,11 +1039,9 @@
                             <div class="form-group ut-style-69">
                                 <label for="message">Clinical Notes / Questions (Optional)</label>
                                 <textarea class="ut-style-70" id="message" name="message"
-                                   
                                     placeholder="Describe your dental wear, bite pain, or preferred consultation dates..."></textarea>
                             </div>
-                            <button type="submit" class="btn btn-primary w-100 ut-style-104"
-                               >Book
+                            <button type="submit" class="btn btn-primary w-100 ut-style-104">Book
                                 Priority Assessment</button>
                         </form>
                     </div>
@@ -799,6 +1051,7 @@
 
     </main>
 
-<?php include 'footer.php'; ?>
+    <?php include 'footer.php'; ?>
 </body>
+
 </html>
