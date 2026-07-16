@@ -160,7 +160,7 @@
                             </div>
                             <div class="info-text">
                                 <h4>Email Us</h4>
-                                <p><a href="mailto:info@drgauravmathpal.in">info@drgauravmathpal.in</a></p>
+                                <p><a href="mailto:mathpalgaurav@gmail.com">mathpalgaurav@gmail.com</a></p>
                             </div>
                         </div>
                         <div class="info-item">
@@ -181,7 +181,8 @@
                             <!-- Google Maps Embed -->
                             <iframe
                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.610471133003!2d77.2416708!3d28.580612499999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce382000acbb1%3A0x66069007dd0c4f65!2sPanacea%20Clinic%20-%20Dr.%20Gaurav%20Mathpal%2C%20Prosthodontist%20and%20Implantologist%2C%20New%20Delhi!5e1!3m2!1sen!2sin!4v1783781236625!5m2!1sen!2sin"
-                                class="contact-map-iframe" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+                                class="contact-map-iframe" allowfullscreen="" loading="lazy"
+                                referrerpolicy="strict-origin-when-cross-origin"></iframe>
                         </div>
                     </div>
 

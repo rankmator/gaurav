@@ -984,7 +984,7 @@
                             </div>
                             <div class="info-text">
                                 <h4>Email Enquiries</h4>
-                                <p><a href="mailto:info@drgauravmathpal.in">info@drgauravmathpal.in</a></p>
+                                <p><a href="mailto:mathpalgaurav@gmail.com">mathpalgaurav@gmail.com</a></p>
                             </div>
                         </div>
                         <div class="info-item">

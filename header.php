@@ -11,15 +11,14 @@ $cur_script = basename($_SERVER['SCRIPT_NAME']);
                         d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
                     </path>
                 </svg> (+91)-8079791010</a>
-            <a href="mailto:info@drgauravmathpal.in"><svg width="14" height="14" viewBox="0 0 24 24" fill="none"
+            <a href="mailto:mathpalgaurav@gmail.com"><svg width="14" height="14" viewBox="0 0 24 24" fill="none"
                     stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                     <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2V6c0-1.1.9-2 2-2z"></path>
                     <polyline points="22,6 12,13 2,6"></polyline>
-                </svg> info@drgauravmathpal.in</a>
+                </svg> mathpalgaurav@gmail.com</a>
             <span class="hours-text topbar-pipe">|</span>
-            <span class="hours-text topbar-hours"><svg width="14" height="14"
-                    viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                    stroke-linejoin="round">
+            <span class="hours-text topbar-hours"><svg width="14" height="14" viewBox="0 0 24 24" fill="none"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                     <circle cx="12" cy="12" r="10"></circle>
                     <polyline points="12 6 12 12 16 14"></polyline>
                 </svg> Mon - Sat: 10:30 AM - 8:00 PM</span>
@@ -64,7 +63,8 @@ $cur_script = basename($_SERVER['SCRIPT_NAME']);
 <header class="header" id="header">
     <div class="container nav-container">
         <a href="index.php" class="logo header-logo-link">
-            <img src="img/logo-dr-mathpal.png" alt="Dr. Gaurav Mathpal - Prosthodontist & Implantologist" class="header-logo-img">
+            <img src="img/logo-dr-mathpal.png" alt="Dr. Gaurav Mathpal - Prosthodontist & Implantologist"
+                class="header-logo-img">
         </a>
 
         <button class="mobile-nav-toggle" aria-controls="primary-navigation" aria-expanded="false">
@@ -85,13 +85,13 @@ $cur_script = basename($_SERVER['SCRIPT_NAME']);
                     <a href="#"
                         class="dropdown-toggle <?php echo (in_array($cur_script, ['implants.php', 'smile-designing.php', 'rehabilitation.php', 'surgery.php'])) ? 'active' : ''; ?>">Services
                         <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
-                            class="dropdown-chevron">
+                            stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="dropdown-chevron">
                             <polyline points="6 9 12 15 18 9"></polyline>
                         </svg></a>
                     <div class="mega-menu glass-card">
                         <div class="mega-menu-grid">
-                            <a href="implants.php" class="mega-item <?php echo ($cur_script === 'implants.php') ? 'mega-item-active' : ''; ?>">
+                            <a href="implants.php"
+                                class="mega-item <?php echo ($cur_script === 'implants.php') ? 'mega-item-active' : ''; ?>">
                                 <div class="mega-icon">
                                     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#10B981"
                                         stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -106,7 +106,8 @@ $cur_script = basename($_SERVER['SCRIPT_NAME']);
                                     <p>Single, Multiple & Full Mouth Implants</p>
                                 </div>
                             </a>
-                            <a href="smile-designing.php" class="mega-item <?php echo ($cur_script === 'smile-designing.php') ? 'mega-item-active' : ''; ?>">
+                            <a href="smile-designing.php"
+                                class="mega-item <?php echo ($cur_script === 'smile-designing.php') ? 'mega-item-active' : ''; ?>">
                                 <div class="mega-icon">
                                     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#10B981"
                                         stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -120,7 +121,8 @@ $cur_script = basename($_SERVER['SCRIPT_NAME']);
                                     <p>Customized Hollywood Smile Makeovers</p>
                                 </div>
                             </a>
-                            <a href="rehabilitation.php" class="mega-item <?php echo ($cur_script === 'rehabilitation.php') ? 'mega-item-active' : ''; ?>">
+                            <a href="rehabilitation.php"
+                                class="mega-item <?php echo ($cur_script === 'rehabilitation.php') ? 'mega-item-active' : ''; ?>">
                                 <div class="mega-icon">
                                     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#10B981"
                                         stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -132,7 +134,8 @@ $cur_script = basename($_SERVER['SCRIPT_NAME']);
                                     <p>Trauma & Restorative Care</p>
                                 </div>
                             </a>
-                            <a href="surgery.php" class="mega-item <?php echo ($cur_script === 'surgery.php') ? 'mega-item-active' : ''; ?>">
+                            <a href="surgery.php"
+                                class="mega-item <?php echo ($cur_script === 'surgery.php') ? 'mega-item-active' : ''; ?>">
                                 <div class="mega-icon">
                                     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#10B981"
                                         stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -150,7 +153,8 @@ $cur_script = basename($_SERVER['SCRIPT_NAME']);
                         </div>
                     </div>
                 </li>
-                <li><a href="gallery.php" class="<?php echo ($cur_script === 'gallery.php') ? 'active' : ''; ?>">Gallery</a></li>
+                <li><a href="gallery.php"
+                        class="<?php echo ($cur_script === 'gallery.php') ? 'active' : ''; ?>">Gallery</a></li>
                 <li><a href="blog.php" class="<?php echo ($cur_script === 'blog.php') ? 'active' : ''; ?>">Blog</a></li>
                 <li><a href="contact.php" class="btn btn-primary nav-btn"><svg width="16" height="16"
                             viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
