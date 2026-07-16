@@ -304,7 +304,7 @@ document.addEventListener('DOMContentLoaded', () => {
         } else if (query.includes('smile') || query.includes('whitening') || query.includes('hollywood')) {
             return "Our digital Hollywood Smile Designing maps your unique facial proportions to give you a natural, radiant, and confident smile. You can even preview your future smile digitally before treatment starts! Can we book a Smile Makeover consultation for you?";
         } else if (query.includes('appointment') || query.includes('book') || query.includes('visit')) {
-            return "We would love to welcome you! You can call us directly at **(+91)-8079791010** or fill out the appointment booking form on our Contact page. Our clinic hours are Mon-Sat 10:30 AM - 8:00 PM.";
+            return "We would love to welcome you! You can call us directly at **(+91)-9811200054** or fill out the appointment booking form on our Contact page. Our clinic hours are Mon-Sat 10:30 AM - 8:00 PM.";
         } else {
             return "Thank you for reaching out! Led by Dr. Gaurav Mathpal, we provide top-tier, painless dental care in New Delhi. Please let me know if you have questions about Implants, Root Canals, Smile Designing, or booking a visit!";
         }

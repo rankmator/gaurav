@@ -19,12 +19,12 @@
       "image": "img/Dr.-Gaurav-Mathpal-Gallery-16.jpg",
       "@id": "https://drgauravmathpal.in/",
       "url": "https://drgauravmathpal.in/",
-      "telephone": "+918079791010",
+      "telephone": "+919811200054",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market",
+        "streetAddress": "1st Floor A-421, Market Road, Opp. A K Collection, Block A, New Ashok Nagar",
         "addressLocality": "New Delhi",
-        "postalCode": "110014",
+        "postalCode": "110096",
         "addressCountry": "IN"
       },
       "geo": {

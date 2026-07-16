@@ -19,12 +19,12 @@
       "image": "img/Dr.-Gaurav-Mathpal-Gallery-16.jpg",
       "@id": "https://drgauravmathpal.in/",
       "url": "https://drgauravmathpal.in/",
-      "telephone": "+918079791010",
+      "telephone": "+919811200054",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market",
+        "streetAddress": "1st Floor A-421, Market Road, Opp. A K Collection, Block A, New Ashok Nagar",
         "addressLocality": "New Delhi",
-        "postalCode": "110014",
+        "postalCode": "110096",
         "addressCountry": "IN"
       },
       "geo": {
@@ -107,8 +107,8 @@
 
                 <p class="page-subtitle fade-in-up thankyou-subheading">
                     Your consultation inquiry has been securely transmitted to Dr. Gaurav Mathpal's specialized clinical
-                    coordination team at Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market, New
-                    Delhi, Delhi 110014.
+                    coordination team at 1st Floor A-421, Market Road, Opp. A K Collection, Block A, New Ashok Nagar,
+                    New Delhi(110096).
                 </p>
 
                 <?php if (!empty($service_display)): ?>
@@ -162,8 +162,8 @@
                         </div>
                         <h3 class="ut-style-81">Precision Consultation</h3>
                         <p class="ut-style-34">
-                            Visit our cutting-edge dental clinic at Shop no: 20, Lower Ground Floor, Block O, Jungpura
-                            Extension, Market, New Delhi, Delhi 110014 for a comprehensive, 100% painless diagnostic
+                            Visit our cutting-edge dental clinic at 1st Floor A-421, Market Road, Opp. A K Collection,
+                            Block A, New Ashok Nagar, New Delhi(110096) for a comprehensive, 100% painless diagnostic
                             assessment and tailored treatment plan.
                         </p>
                     </div>
@@ -192,16 +192,16 @@
                         </p>
                     </div>
                     <div class="ut-flex-wrap-gap1">
-                        <a href="tel:+918079791010" class="btn ut-style-10">
-                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
-                                stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                        <a href="tel:+919811200054" class="btn ut-style-10">
+                            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                                 <path
                                     d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
                                 </path>
                             </svg>
-                            Call (+91)-8079791010
+                            Call (+91)-9811200054
                         </a>
-                        <a href="https://wa.me/918079791010" target="_blank" class="btn ut-style-20">
+                        <a href="https://wa.me/919811200054" target="_blank" class="btn ut-style-20">
                             <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
                                 <path
                                     d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.582 2.128 2.182-.573c.978.58 1.911.928 3.145.929 3.178 0 5.767-2.587 5.768-5.766.001-3.187-2.575-5.77-5.764-5.771zm3.392 8.244c-.144.405-.837.774-1.17.824-.299.045-.677.063-1.092-.069-.252-.08-.575-.187-.988-.365-1.739-.751-2.874-2.502-2.961-2.617-.087-.116-.708-.94-.708-1.793s.448-1.273.607-1.446c.159-.173.346-.217.462-.217l.332.006c.106.005.249-.04.39.298.144.347.491 1.2.534 1.287.043.087.072.188.014.304-.058.116-.087.188-.173.289l-.26.304c-.087.086-.177.18-.076.354.101.174.449.741.964 1.201.662.591 1.221.774 1.394.86s.289.072.39-.043c.101-.116.433-.506.549-.68.116-.173.231-.145.39-.087s1.011.477 1.184.564.289.13.332.202c.045.072.045.419-.1.824zm-3.423-14.416c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12z">
@@ -290,8 +290,8 @@
                             </div>
                             <h3 class="ut-style-80">Clinic Location</h3>
                             <p class="ut-style-32">
-                                Conveniently situated at Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension,
-                                Market, New Delhi, Delhi 110014. Get interactive driving directions and view our
+                                Conveniently situated at 1st Floor A-421, Market Road, Opp. A K Collection, Block A, New
+                                Ashok Nagar, New Delhi(110096). Get interactive driving directions and view our
                                 operating hours and patient amenities.
                             </p>
                         </div>

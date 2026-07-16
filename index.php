@@ -19,12 +19,12 @@
       "image": "img/Dr.-Gaurav-Mathpal-Gallery-16.jpg",
       "@id": "https://drgauravmathpal.in/",
       "url": "https://drgauravmathpal.in/",
-      "telephone": "+918079791010",
+      "telephone": "+919811200054",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market",
+        "streetAddress": "1st Floor A-421, Market Road, Opp. A K Collection, Block A, New Ashok Nagar",
         "addressLocality": "New Delhi",
-        "postalCode": "110014",
+        "postalCode": "110096",
         "addressCountry": "IN"
       },
       "geo": {
@@ -341,7 +341,7 @@
                                 </svg>
                                 Appointment
                             </a>
-                            <a href="tel:+918079791010" class="btn-service btn-service-call">
+                            <a href="tel:+919811200054" class="btn-service btn-service-call">
                                 <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none"
                                     stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                     stroke-linejoin="round">
@@ -380,7 +380,7 @@
                                 </svg>
                                 Appointment
                             </a>
-                            <a href="tel:+918079791010" class="btn-service btn-service-call">
+                            <a href="tel:+919811200054" class="btn-service btn-service-call">
                                 <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none"
                                     stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                     stroke-linejoin="round">
@@ -418,7 +418,7 @@
                                 </svg>
                                 Appointment
                             </a>
-                            <a href="tel:+918079791010" class="btn-service btn-service-call">
+                            <a href="tel:+919811200054" class="btn-service btn-service-call">
                                 <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none"
                                     stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                     stroke-linejoin="round">
@@ -456,7 +456,7 @@
                                 </svg>
                                 Appointment
                             </a>
-                            <a href="tel:+918079791010" class="btn-service btn-service-call">
+                            <a href="tel:+919811200054" class="btn-service btn-service-call">
                                 <svg class="ut-margin-right-6px" width="14" height="14" viewBox="0 0 24 24" fill="none"
                                     stroke="currentColor" stroke-width="2" stroke-linecap="round"
                                     stroke-linejoin="round">
@@ -486,7 +486,7 @@
                     </div>
                     <div class="info-strip-text">
                         <h4>Need Dental Services ?</h4>
-                        <p>Call on : (+91)-8079791010</p>
+                        <p>Call on : (+91)-9811200054</p>
                     </div>
                 </div>
                 <div class="info-strip-item">
@@ -1174,8 +1174,8 @@
                             </div>
                             <div class="info-text">
                                 <h4>Visit Us</h4>
-                                <p>Shop no: 20, Lower Ground Floor, Block O, Jungpura Extension, Market, New Delhi,
-                                    Delhi 110014</p>
+                                <p>1st Floor A-421, Market Road, Opp. A K Collection, Block A, New Ashok Nagar, New
+                                    Delhi(110096)</p>
                             </div>
                         </div>
                         <div class="info-item">
@@ -1189,7 +1189,7 @@
                             </div>
                             <div class="info-text">
                                 <h4>Call Us</h4>
-                                <p><a href="tel:+918079791010">(+91)-8079791010</a></p>
+                                <p><a href="tel:+919811200054">(+91)-9811200054</a></p>
                             </div>
                         </div>
                         <div class="info-item">
@@ -1223,7 +1223,7 @@
 
                         <div class="map-container ut-margin-top-2-5rem">
                             <iframe class="ut-style-23"
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.610471133003!2d77.2416708!3d28.580612499999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce382000acbb1%3A0x66069007dd0c4f65!2sPanacea%20Clinic%20-%20Dr.%20Gaurav%20Mathpal%2C%20Prosthodontist%20and%20Implantologist%2C%20New%20Delhi!5e1!3m2!1sen!2sin!4v1783781236625!5m2!1sen!2sin"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51787.68844612862!2d77.27963424539263!3d28.590742429142658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce48ccec3eae9%3A0x4398b4fb111743cf!2sPanacea%20Clinic%20by%20Dr.%20Gaurav%20Mathpaal!5e1!3m2!1sen!2sin!4v1784173814175!5m2!1sen!2sin"
                                 width="100%" height="220" allowfullscreen="" loading="lazy"
                                 referrerpolicy="strict-origin-when-cross-origin"></iframe>
                         </div>
@@ -1231,7 +1231,7 @@
 
                     <!-- Contact Form -->
                     <div class="contact-form-container contact-card fade-in-up ut-delay-1">
-                        <form id="contact-form" class="contact-form ut-style-53" action="#" method="POST">
+                        <form id="contact-form" class="contact-form ut-style-53" action="mail1.php" method="POST">
                             <h3 class="ut-style-49">
                                 <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="var(--clr-primary)"
                                     stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -1245,7 +1245,7 @@
                             </div>
                             <div class="form-group">
                                 <label for="phone">Phone Number</label>
-                                <input type="tel" id="phone" name="phone" required placeholder="e.g. +91 80797 91010">
+                                <input type="tel" id="phone" name="phone" required placeholder="e.g. +91 98112 00054">
                             </div>
                             <div class="form-group">
                                 <label for="service">Interested Service</label>
